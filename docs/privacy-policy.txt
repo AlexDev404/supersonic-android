@@ -1,0 +1,36 @@
+SuperSonic Privacy Policy
+
+Effective date: 22 October 2026
+
+SuperSonic does not collect, store, share or sell any personal data.
+
+What the app does not do
+- It does not ask for any permissions, including internet access.
+- It has no accounts, sign-in, advertising, analytics or crash reporting.
+- It does not send anything to us or to anyone else.
+
+What stays on your device
+- The code you write, which is kept in the app's private storage.
+- The sounds the app unpacks when it first starts.
+This data never leaves your device through SuperSonic. Uninstalling the app,
+or clearing its data, deletes it.
+
+Files you open or save
+When you open or save a .rb file, you choose it yourself with Android's
+system file picker. SuperSonic can reach only the file you pick, and only at
+that moment.
+
+Device backup
+If you have turned on Android's backup, Android may include SuperSonic's data
+(such as your code) in your device backup with Google. This is controlled by
+your device settings and Google's own privacy policy, not by SuperSonic.
+
+Children
+SuperSonic collects no data from anyone, including children.
+
+Changes
+If this policy changes, the new version will be published here with a new
+effective date.
+
+Contact
+Questions about this policy: immanuelgarcia278@gmail.com
