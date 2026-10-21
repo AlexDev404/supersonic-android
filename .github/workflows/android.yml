@@ -76,14 +76,26 @@ jobs:
             [ -n "${!s}" ] || { echo "::error::the secret ANDROID_$s is not set"; exit 1; }
           done
           echo "$KEYSTORE_BASE64" | base64 --decode > "$RUNNER_TEMP/release.jks"
-          echo "SIGNING_KEYSTORE=$RUNNER_TEMP/release.jks" >> "$GITHUB_ENV"
+          {
+            echo "SIGNING_KEYSTORE=$RUNNER_TEMP/release.jks"
+            echo "SIGNING_KEYSTORE_PASSWORD=$KEYSTORE_PASSWORD"
+            echo "SIGNING_KEY_ALIAS=$KEY_ALIAS"
+            echo "SIGNING_KEY_PASSWORD=$KEY_PASSWORD"
+          } >> "$GITHUB_ENV"
       - name: Test and build
         working-directory: android
-        env:
-          SIGNING_KEYSTORE_PASSWORD: ${{ github.event_name == 'workflow_dispatch' && inputs.signed && secrets.ANDROID_KEYSTORE_PASSWORD || '' }}
-          SIGNING_KEY_ALIAS: ${{ github.event_name == 'workflow_dispatch' && inputs.signed && secrets.ANDROID_KEY_ALIAS || '' }}
-          SIGNING_KEY_PASSWORD: ${{ github.event_name == 'workflow_dispatch' && inputs.signed && secrets.ANDROID_KEY_PASSWORD || '' }}
         run: ./gradlew --no-daemon :app:testDebugUnitTest -Proborazzi.test.record=true :app:assembleDebug :app:assembleRelease
+      # For Google Play: the release as an App Bundle, signed with the same keystore (Play's upload key).
+      - name: Bundle
+        if: env.SIGNING_KEYSTORE != ''
+        working-directory: android
+        run: |
+          ./gradlew --no-daemon :app:bundleRelease
+          mkdir -p ../aab
+          cp app/build/outputs/bundle/release/app-release.aab ../aab/sonic-pi-release-signed.aab
+          # whose key signed it, in the log
+          jarsigner -verify ../aab/sonic-pi-release-signed.aab
+          keytool -printcert -jarfile ../aab/sonic-pi-release-signed.aab | grep -E "Owner|SHA256:"
       - name: Name the APKs
         run: |
           mkdir -p apk
@@ -100,6 +112,12 @@ jobs:
         with:
           name: sonic-pi-android-apk
           path: apk/*.apk
+          if-no-files-found: error
+      - uses: actions/upload-artifact@v7
+        if: env.SIGNING_KEYSTORE != ''
+        with:
+          name: sonic-pi-android-aab
+          path: aab/*.aab
           if-no-files-found: error
       - uses: actions/upload-artifact@v7
         if: always()

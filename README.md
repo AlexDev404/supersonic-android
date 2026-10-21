@@ -140,8 +140,9 @@ Each push builds everything and uploads these artifacts:
 
 To sign the release APK with your own key, run the **Android** workflow by hand
 (Actions → Android → Run workflow) and tick **signed**. The APK is then
-`sonic-pi-release-signed.apk`. The workflow reads the keystore from these
-repository secrets:
+`sonic-pi-release-signed.apk`, and an App Bundle for Google Play,
+`sonic-pi-release-signed.aab`, is uploaded beside it as `sonic-pi-android-aab`.
+The workflow reads the keystore from these repository secrets:
 
 | Secret | What it holds |
 | --- | --- |
