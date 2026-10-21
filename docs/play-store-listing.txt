@@ -1,0 +1,1887 @@
+APP NAME
+
+SuperSonic
+
+SHORT DESCRIPTION (76/80)
+
+Code music LIVE with Sonic Pi's language, synths and samples. Fully offline.
+
+
+FULL DESCRIPTION (2410/4000)
+
+Write code. Make music. Live, in your pocket.
+
+SuperSonic brings Sonic Pi, the live-coding music synth used in classrooms, studios and on stage, to your Android phone and tablet. Type a few lines, press run, and hear it straight away. Change the code while it plays and the music changes with it.
+
+Everything runs on your device: the language, the synth engine, the samples and the FX. No server, no account and no internet connection needed.
+
+THE EDITOR
+• Ten code buffers, like Sonic Pi on the desktop, saved as you type
+• Sonic Pi's syntax colours and the Hack font, with line numbers and auto-indent
+• A key bar above the keyboard with the symbols code needs, plus undo, redo and indent
+• Errors are marked on the line where they happen
+• Open and save .rb files anywhere through the system file picker
+
+SMART SUGGESTIONS
+As you type, SuperSonic offers what Sonic Pi's own editor offers:
+• Samples after sample, synths after use_synth
+• The current synth's options after play
+• FX options inside with_fx
+• Notes, chords and scales
+• Function names after two letters
+Put the cursor on a function, synth, FX or sample to see what it does, and tap for the full documentation.
+
+SOUND
+• The real Sonic Pi synths, samples and FX, played by a low-latency audio engine built for Android
+• Run turns pink while your music plays; stop silences it at once
+
+LEARN AS YOU PLAY
+• The built-in help covers examples, the language, synths, FX and samples
+• Open any example straight into a buffer and run it
+• Tap a sample in the help to hear it
+
+SEE WHAT'S PLAYING
+• A live log of every note and sample, in Sonic Pi's familiar format
+• A cues pane listing every cue as it fires
+• On tablets, the log and cues sit beside your code
+
+DESIGNED FOR YOUR DEVICE
+• Light and dark themes that follow your phone's setting
+• A phone layout with bottom tabs, and a side rail on tablets
+• Edge-to-edge display and predictive back gestures
+• No storage permission: your code stays in the app's private storage unless you choose to save it elsewhere
+
+Perfect for students learning to code, teachers running music and computing lessons, and musicians who want to sketch ideas or perform live wherever they are.
+
+OPEN SOURCE
+SuperSonic is free software under the GNU AGPL v3 (or later), built on the open-source Sonic Pi. SuperSonic is an independent project and is not affiliated with or endorsed by the Sonic Pi project or its creators.
+
+---
+<META lang=zh-CN/>
+
+APP NAME
+
+SuperSonic
+
+SHORT DESCRIPTION (35/80)
+
+用 Sonic Pi 的语言、合成器和采样现场编程创作音乐。完全离线。
+
+
+FULL DESCRIPTION (1020/4000)
+
+写代码，做音乐。现场演奏，尽在掌中。
+
+SuperSonic 将 Sonic Pi 带到你的 Android 手机和平板上。Sonic Pi 是一款现场编程（live coding）音乐合成器，广泛用于课堂、录音室和舞台。输入几行代码，点击运行，立刻就能听到声音。在播放时修改代码，音乐也会随之改变。
+
+一切都在你的设备上运行：语言、合成引擎、采样和效果器。无需服务器、无需账号，也无需联网。
+
+编辑器
+• 与桌面版 Sonic Pi 一样的十个代码缓冲区，边输入边保存
+• Sonic Pi 的语法配色和 Hack 字体，带行号和自动缩进
+• 键盘上方的按键栏，提供代码常用符号以及撤销、重做和缩进
+• 错误会标记在出错的那一行
+• 通过系统文件选择器在任意位置打开和保存 .rb 文件
+
+智能提示
+输入时，SuperSonic 会给出与 Sonic Pi 自带编辑器相同的提示：
+• sample 之后提示采样，use_synth 之后提示合成器
+• play 之后提示当前合成器的参数
+• with_fx 中提示效果器参数
+• 音符、和弦和音阶
+• 输入两个字母后提示函数名
+将光标放在函数、合成器、效果器或采样上即可查看说明，点按可打开完整文档。
+
+声音
+• 真正的 Sonic Pi 合成器、采样和效果器，由专为 Android 打造的低延迟音频引擎播放
+• 音乐播放时运行按钮变为粉色；按停止立即静音
+
+边玩边学
+• 内置帮助涵盖示例、语言、合成器、效果器和采样
+• 任何示例都能直接在缓冲区中打开并运行
+• 在帮助中点按采样即可试听
+
+看见正在播放的声音
+• 以熟悉的 Sonic Pi 格式实时记录每个音符和采样
+• 提示（cue）面板，列出每个触发的 cue
+• 在平板上，日志和提示显示在代码旁边
+
+为你的设备而设计
+• 浅色和深色主题，跟随手机设置
+• 手机上使用底部标签栏，平板上使用侧边导航栏
+• 全面屏显示和预测性返回手势
+• 无需存储权限：除非你选择保存到其他位置，代码都保存在应用的私有存储中
+
+非常适合学习编程的学生、教授音乐和计算机课程的老师，以及想随时随地记录灵感或现场演出的音乐人。
+
+开源
+SuperSonic 是基于开源项目 Sonic Pi 的自由软件，采用 GNU AGPL v3（或更高版本）许可。SuperSonic 是独立项目，与 Sonic Pi 项目及其创作者无关，也未获得其认可。
+
+---
+<META lang=zh-TW/>
+
+APP NAME
+
+SuperSonic
+
+SHORT DESCRIPTION (35/80)
+
+用 Sonic Pi 的語言、合成器和取樣即時編寫音樂程式。完全離線。
+
+
+FULL DESCRIPTION (1049/4000)
+
+寫程式，做音樂。現場演奏，盡在掌中。
+
+SuperSonic 將 Sonic Pi 帶到你的 Android 手機和平板上。Sonic Pi 是一款現場編程（live coding）音樂合成器，廣泛用於課堂、錄音室和舞台。輸入幾行程式碼，點選執行，立刻就能聽到聲音。在播放時修改程式碼，音樂也會隨之改變。
+
+一切都在你的裝置上執行：語言、合成引擎、取樣和效果器。不需要伺服器、不需要帳號，也不需要連網。
+
+編輯器
+• 和桌面版 Sonic Pi 一樣的十個程式碼緩衝區，邊輸入邊儲存
+• Sonic Pi 的語法配色和 Hack 字型，附行號和自動縮排
+• 鍵盤上方的按鍵列，提供程式碼常用符號以及復原、重做和縮排
+• 錯誤會標示在出錯的那一行
+• 透過系統檔案選擇器在任何位置開啟和儲存 .rb 檔案
+
+智慧提示
+輸入時，SuperSonic 會提供與 Sonic Pi 本身編輯器相同的提示：
+• sample 之後提示取樣，use_synth 之後提示合成器
+• play 之後提示目前合成器的參數
+• with_fx 中提示效果器參數
+• 音符、和弦和音階
+• 輸入兩個字母後提示函式名稱
+將游標放在函式、合成器、效果器或取樣上即可查看說明，輕觸可開啟完整文件。
+
+聲音
+• 真正的 Sonic Pi 合成器、取樣和效果器，由專為 Android 打造的低延遲音訊引擎播放
+• 音樂播放時執行按鈕會變成粉紅色；按停止立即靜音
+
+邊玩邊學
+• 內建說明涵蓋範例、語言、合成器、效果器和取樣
+• 任何範例都能直接在緩衝區中開啟並執行
+• 在說明中輕觸取樣即可試聽
+
+看見正在播放的聲音
+• 以熟悉的 Sonic Pi 格式即時記錄每個音符和取樣
+• 提示（cue）面板，列出每個觸發的 cue
+• 在平板上，記錄和提示會顯示在程式碼旁邊
+
+為你的裝置而設計
+• 淺色和深色主題，跟隨手機設定
+• 手機上使用底部分頁，平板上使用側邊導覽列
+• 全螢幕顯示和預測返回手勢
+• 不需要儲存空間權限：除非你選擇儲存到其他位置，程式碼都保存在應用程式的私人儲存空間中
+
+非常適合學習程式設計的學生、教授音樂和電腦課程的老師，以及想隨時隨地記錄靈感或現場演出的音樂人。
+
+開放原始碼
+SuperSonic 是以開放原始碼專案 Sonic Pi 為基礎的自由軟體，採用 GNU AGPL v3（或更新版本）授權。SuperSonic 是獨立專案，與 Sonic Pi 專案及其創作者沒有關聯，也未獲得其認可。
+
+---
+<META lang=hi-IN/>
+
+APP NAME
+
+SuperSonic
+
+SHORT DESCRIPTION (73/80)
+
+Sonic Pi की भाषा, सिंथ और सैंपल से LIVE संगीत कोड करें। पूरी तरह ऑफ़लाइन।
+
+
+FULL DESCRIPTION (2382/4000)
+
+कोड लिखें। संगीत बनाएँ। लाइव, आपकी जेब में।
+
+SuperSonic, Sonic Pi को आपके Android फ़ोन और टैबलेट पर लाता है। Sonic Pi एक लाइव-कोडिंग म्यूज़िक सिंथ है, जिसका इस्तेमाल कक्षाओं, स्टूडियो और मंच पर होता है। कुछ लाइनें लिखें, रन दबाएँ और तुरंत सुनें। बजते समय कोड बदलें, और संगीत भी उसके साथ बदल जाएगा।
+
+सब कुछ आपके डिवाइस पर चलता है: भाषा, सिंथ इंजन, सैंपल और इफ़ेक्ट। न सर्वर, न अकाउंट और न इंटरनेट कनेक्शन की ज़रूरत।
+
+एडिटर
+• डेस्कटॉप वाले Sonic Pi की तरह दस कोड बफ़र, जो टाइप करते ही सेव होते हैं
+• Sonic Pi के सिंटैक्स रंग और Hack फ़ॉन्ट, लाइन नंबर और ऑटो-इंडेंट के साथ
+• कीबोर्ड के ऊपर एक की-बार, जिसमें कोड के लिए ज़रूरी चिह्न और अनडू, रीडू व इंडेंट हैं
+• गलतियाँ उसी लाइन पर दिखाई जाती हैं जहाँ वे होती हैं
+• सिस्टम फ़ाइल पिकर से .rb फ़ाइलें कहीं भी खोलें और सेव करें
+
+स्मार्ट सुझाव
+टाइप करते समय SuperSonic वही सुझाव देता है जो Sonic Pi का अपना एडिटर देता है:
+• sample के बाद सैंपल, use_synth के बाद सिंथ
+• play के बाद मौजूदा सिंथ के विकल्प
+• with_fx के अंदर इफ़ेक्ट के विकल्प
+• सुर, कॉर्ड और स्केल
+• दो अक्षर टाइप करने पर फ़ंक्शन के नाम
+किसी फ़ंक्शन, सिंथ, इफ़ेक्ट या सैंपल पर कर्सर रखकर देखें कि वह क्या करता है, और पूरा दस्तावेज़ खोलने के लिए टैप करें।
+
+साउंड
+• Sonic Pi के असली सिंथ, सैंपल और इफ़ेक्ट, जिन्हें Android के लिए बना लो-लेटेंसी ऑडियो इंजन बजाता है
+• संगीत बजते समय रन बटन गुलाबी हो जाता है; स्टॉप उसे तुरंत बंद कर देता है
+
+बजाते हुए सीखें
+• बिल्ट-इन हेल्प में उदाहरण, भाषा, सिंथ, इफ़ेक्ट और सैंपल शामिल हैं
+• कोई भी उदाहरण सीधे बफ़र में खोलें और चलाएँ
+• सुनने के लिए हेल्प में किसी सैंपल पर टैप करें
+
+देखें क्या बज रहा है
+• हर सुर और सैंपल का लाइव लॉग, Sonic Pi के जाने-पहचाने फ़ॉर्मैट में
+• क्यू पैनल, जो हर क्यू (cue) को चलते ही दिखाता है
+• टैबलेट पर लॉग और क्यू आपके कोड के बगल में रहते हैं
+
+आपके डिवाइस के लिए बनाया गया
+• लाइट और डार्क थीम, जो आपके फ़ोन की सेटिंग के हिसाब से बदलती हैं
+• फ़ोन पर नीचे टैब और टैबलेट पर साइड रेल
+• एज-टू-एज डिस्प्ले और प्रेडिक्टिव बैक जेस्चर
+• स्टोरेज अनुमति की ज़रूरत नहीं: आपका कोड ऐप के निजी स्टोरेज में रहता है, जब तक आप उसे कहीं और सेव न करें
+
+कोडिंग सीख रहे छात्रों, संगीत और कंप्यूटर पढ़ाने वाले शिक्षकों, और कहीं भी आइडिया बनाने या लाइव परफ़ॉर्म करने वाले संगीतकारों के लिए बिल्कुल सही।
+
+ओपन सोर्स
+SuperSonic, ओपन-सोर्स Sonic Pi पर आधारित, GNU AGPL v3 (या बाद के संस्करण) के तहत मुफ़्त सॉफ़्टवेयर है। SuperSonic एक स्वतंत्र प्रोजेक्ट है और Sonic Pi प्रोजेक्ट या उसके निर्माताओं से संबद्ध या उनके द्वारा समर्थित नहीं है।
+
+---
+<META lang=es-419/>
+
+APP NAME
+
+SuperSonic
+
+SHORT DESCRIPTION (79/80)
+
+Programa música EN VIVO con el lenguaje, sintes y samples de Sonic Pi. Offline.
+
+
+FULL DESCRIPTION (2818/4000)
+
+Escribe código. Haz música. En vivo, en tu bolsillo.
+
+SuperSonic lleva Sonic Pi, el sintetizador musical de live coding que se usa en aulas, estudios y escenarios, a tu teléfono y tableta Android. Escribe unas líneas, pulsa ejecutar y escúchalo al instante. Cambia el código mientras suena y la música cambia con él.
+
+Todo funciona en tu dispositivo: el lenguaje, el motor de síntesis, los samples y los efectos. Sin servidor, sin cuenta y sin conexión a internet.
+
+EL EDITOR
+• Diez buffers de código, como Sonic Pi en el escritorio, que se guardan mientras escribes
+• Los colores de sintaxis de Sonic Pi y la fuente Hack, con números de línea y sangría automática
+• Una barra de teclas sobre el teclado con los símbolos que necesita el código, además de deshacer, rehacer y sangría
+• Los errores se marcan en la línea donde ocurren
+• Abre y guarda archivos .rb en cualquier lugar con el selector de archivos del sistema
+
+SUGERENCIAS INTELIGENTES
+Mientras escribes, SuperSonic te ofrece lo mismo que el editor de Sonic Pi:
+• Samples después de sample, sintetizadores después de use_synth
+• Las opciones del sintetizador actual después de play
+• Opciones de efectos dentro de with_fx
+• Notas, acordes y escalas
+• Nombres de funciones tras dos letras
+Coloca el cursor sobre una función, sintetizador, efecto o sample para ver qué hace, y tócalo para abrir la documentación completa.
+
+SONIDO
+• Los sintetizadores, samples y efectos reales de Sonic Pi, reproducidos por un motor de audio de baja latencia hecho para Android
+• Ejecutar se vuelve rosa mientras suena tu música; detener la silencia al instante
+
+APRENDE MIENTRAS TOCAS
+• La ayuda integrada cubre ejemplos, el lenguaje, sintetizadores, efectos y samples
+• Abre cualquier ejemplo directamente en un buffer y ejecútalo
+• Toca un sample en la ayuda para escucharlo
+
+MIRA LO QUE SUENA
+• Un registro en vivo de cada nota y sample, en el formato de siempre de Sonic Pi
+• Un panel de cues que muestra cada cue al dispararse
+• En tabletas, el registro y los cues se muestran junto a tu código
+
+DISEÑADO PARA TU DISPOSITIVO
+• Temas claro y oscuro que siguen la configuración de tu teléfono
+• Diseño para teléfono con pestañas abajo, y un riel lateral en tabletas
+• Pantalla de borde a borde y gesto de atrás predictivo
+• Sin permiso de almacenamiento: tu código se queda en el almacenamiento privado de la app a menos que decidas guardarlo en otro lugar
+
+Ideal para estudiantes que aprenden a programar, docentes que dan clases de música e informática, y músicos que quieren bosquejar ideas o tocar en vivo donde estén.
+
+CÓDIGO ABIERTO
+SuperSonic es software libre bajo la GNU AGPL v3 (o posterior), basado en el proyecto de código abierto Sonic Pi. SuperSonic es un proyecto independiente y no está afiliado ni respaldado por el proyecto Sonic Pi ni por sus creadores.
+
+---
+<META lang=es-ES/>
+
+APP NAME
+
+SuperSonic
+
+SHORT DESCRIPTION (79/80)
+
+Programa música EN DIRECTO con lenguaje, sintes y samples de Sonic Pi. Offline.
+
+
+FULL DESCRIPTION (2827/4000)
+
+Escribe código. Haz música. En directo, en tu bolsillo.
+
+SuperSonic lleva Sonic Pi, el sintetizador musical de live coding que se usa en aulas, estudios y escenarios, a tu móvil y tablet Android. Escribe unas líneas, pulsa ejecutar y escúchalo al instante. Cambia el código mientras suena y la música cambia con él.
+
+Todo funciona en tu dispositivo: el lenguaje, el motor de síntesis, los samples y los efectos. Sin servidor, sin cuenta y sin conexión a internet.
+
+EL EDITOR
+• Diez buffers de código, como Sonic Pi en el escritorio, que se guardan mientras escribes
+• Los colores de sintaxis de Sonic Pi y la fuente Hack, con números de línea y sangría automática
+• Una barra de teclas sobre el teclado con los símbolos que necesita el código, además de deshacer, rehacer y sangría
+• Los errores se marcan en la línea donde ocurren
+• Abre y guarda archivos .rb en cualquier lugar con el selector de archivos del sistema
+
+SUGERENCIAS INTELIGENTES
+Mientras escribes, SuperSonic te ofrece lo mismo que el editor de Sonic Pi:
+• Samples después de sample, sintetizadores después de use_synth
+• Las opciones del sintetizador actual después de play
+• Opciones de efectos dentro de with_fx
+• Notas, acordes y escalas
+• Nombres de funciones tras dos letras
+Coloca el cursor sobre una función, sintetizador, efecto o sample para ver qué hace, y púlsalo para abrir la documentación completa.
+
+SONIDO
+• Los sintetizadores, samples y efectos reales de Sonic Pi, reproducidos por un motor de audio de baja latencia hecho para Android
+• Ejecutar se vuelve rosa mientras suena tu música; detener la silencia al instante
+
+APRENDE MIENTRAS TOCAS
+• La ayuda integrada cubre ejemplos, el lenguaje, sintetizadores, efectos y samples
+• Abre cualquier ejemplo directamente en un buffer y ejecútalo
+• Pulsa un sample en la ayuda para escucharlo
+
+MIRA LO QUE SUENA
+• Un registro en directo de cada nota y sample, en el formato de siempre de Sonic Pi
+• Un panel de cues que muestra cada cue al dispararse
+• En tablets, el registro y los cues se muestran junto a tu código
+
+DISEÑADO PARA TU DISPOSITIVO
+• Temas claro y oscuro que siguen la configuración de tu móvil
+• Diseño para móvil con pestañas abajo y una barra lateral en tablets
+• Pantalla de borde a borde y gesto de atrás predictivo
+• Sin permiso de almacenamiento: tu código se queda en el almacenamiento privado de la aplicación a menos que decidas guardarlo en otro lugar
+
+Ideal para estudiantes que aprenden a programar, profesores que dan clases de música e informática, y músicos que quieren bosquejar ideas o tocar en directo donde estén.
+
+CÓDIGO ABIERTO
+SuperSonic es software libre bajo la GNU AGPL v3 (o posterior), basado en el proyecto de código abierto Sonic Pi. SuperSonic es un proyecto independiente y no está afiliado ni respaldado por el proyecto Sonic Pi ni por sus creadores.
+
+---
+<META lang=ar/>
+
+APP NAME
+
+SuperSonic
+
+SHORT DESCRIPTION (74/80)
+
+برمج الموسيقى مباشرةً بلغة Sonic Pi ومُركِّباته وعيّناته. يعمل دون إنترنت.
+
+
+FULL DESCRIPTION (2285/4000)
+
+اكتب الشيفرة. اصنع الموسيقى. مباشرةً، في جيبك.
+
+يقدّم SuperSonic تطبيق Sonic Pi، مُركِّب الموسيقى بالبرمجة الحية المستخدم في الفصول الدراسية والاستوديوهات وعلى المسارح، على هاتفك وجهازك اللوحي بنظام Android. اكتب بضعة أسطر، واضغط تشغيل، واستمع فورًا. غيّر الشيفرة أثناء العزف وستتغير الموسيقى معها.
+
+كل شيء يعمل على جهازك: اللغة ومحرك التركيب الصوتي والعيّنات والمؤثرات. لا حاجة إلى خادم أو حساب أو اتصال بالإنترنت.
+
+المحرّر
+• عشرة مخازن للشيفرة مثل Sonic Pi على الكمبيوتر، تُحفظ أثناء الكتابة
+• ألوان الصياغة في Sonic Pi وخط Hack، مع أرقام الأسطر والمسافة البادئة التلقائية
+• شريط مفاتيح فوق لوحة المفاتيح يضم الرموز التي تحتاجها الشيفرة، إلى جانب التراجع والإعادة والمسافة البادئة
+• تُحدَّد الأخطاء في السطر الذي تقع فيه
+• افتح ملفات .rb واحفظها في أي مكان عبر منتقي الملفات في النظام
+
+اقتراحات ذكية
+أثناء الكتابة، يقدّم SuperSonic ما يقدّمه محرّر Sonic Pi نفسه:
+• العيّنات بعد sample، والمُركِّبات بعد use_synth
+• خيارات المُركِّب الحالي بعد play
+• خيارات المؤثرات داخل with_fx
+• النوتات والكوردات والسلالم الموسيقية
+• أسماء الدوال بعد كتابة حرفين
+ضع المؤشر على دالة أو مُركِّب أو مؤثر أو عيّنة لترى وظيفتها، واضغط لفتح التوثيق الكامل.
+
+الصوت
+• مُركِّبات Sonic Pi وعيّناته ومؤثراته الحقيقية، يشغّلها محرك صوت منخفض التأخير مصمَّم لنظام Android
+• يتحول زر التشغيل إلى اللون الوردي أثناء عزف موسيقاك، وزر الإيقاف يُسكتها فورًا
+
+تعلّم وأنت تعزف
+• تغطي المساعدة المدمجة الأمثلة واللغة والمُركِّبات والمؤثرات والعيّنات
+• افتح أي مثال مباشرةً في مخزن وشغّله
+• اضغط على عيّنة في المساعدة لتسمعها
+
+شاهد ما يُعزف
+• سجل مباشر لكل نوتة وعيّنة بتنسيق Sonic Pi المألوف
+• لوحة إشارات (cue) تعرض كل إشارة لحظة انطلاقها
+• على الأجهزة اللوحية، يظهر السجل والإشارات بجانب الشيفرة
+
+مصمَّم لجهازك
+• سمات فاتحة وداكنة تتبع إعدادات هاتفك
+• تخطيط للهاتف مع علامات تبويب في الأسفل، وشريط جانبي على الأجهزة اللوحية
+• عرض من الحافة إلى الحافة وإيماءة الرجوع التنبؤية
+• لا يحتاج إلى إذن التخزين: تبقى شيفرتك في مساحة التخزين الخاصة بالتطبيق ما لم تختر حفظها في مكان آخر
+
+مثالي للطلاب الذين يتعلمون البرمجة، والمعلمين الذين يقدّمون دروس الموسيقى والحاسوب، والموسيقيين الذين يريدون رسم أفكارهم أو العزف مباشرةً أينما كانوا.
+
+مفتوح المصدر
+SuperSonic برنامج حر مرخّص بموجب GNU AGPL v3 (أو أحدث)، ومبني على مشروع Sonic Pi مفتوح المصدر. SuperSonic مشروع مستقل وغير تابع لمشروع Sonic Pi أو صانعيه ولا يحظى بمصادقتهم.
+
+---
+<META lang=fr-FR/>
+
+APP NAME
+
+SuperSonic
+
+SHORT DESCRIPTION (79/80)
+
+Codez de la musique EN DIRECT : langage, synthés, samples Sonic Pi. Hors ligne.
+
+
+FULL DESCRIPTION (2963/4000)
+
+Écrivez du code. Faites de la musique. En direct, dans votre poche.
+
+SuperSonic apporte Sonic Pi, le synthé musical de live coding utilisé en classe, en studio et sur scène, sur votre téléphone et votre tablette Android. Tapez quelques lignes, lancez, et écoutez immédiatement. Modifiez le code pendant qu'il joue : la musique change avec lui.
+
+Tout fonctionne sur votre appareil : le langage, le moteur de synthèse, les samples et les effets. Sans serveur, sans compte et sans connexion Internet.
+
+L'ÉDITEUR
+• Dix buffers de code, comme Sonic Pi sur ordinateur, enregistrés pendant que vous tapez
+• Les couleurs syntaxiques de Sonic Pi et la police Hack, avec numéros de ligne et indentation automatique
+• Une barre de touches au-dessus du clavier avec les symboles utiles au code, plus annuler, rétablir et indenter
+• Les erreurs sont signalées sur la ligne où elles se produisent
+• Ouvrez et enregistrez des fichiers .rb n'importe où grâce au sélecteur de fichiers du système
+
+SUGGESTIONS INTELLIGENTES
+Pendant que vous tapez, SuperSonic propose ce que propose l'éditeur de Sonic Pi lui-même :
+• Les samples après sample, les synthés après use_synth
+• Les options du synthé en cours après play
+• Les options d'effet dans with_fx
+• Notes, accords et gammes
+• Les noms de fonctions dès deux lettres
+Placez le curseur sur une fonction, un synthé, un effet ou un sample pour voir ce qu'il fait, et touchez pour ouvrir la documentation complète.
+
+SON
+• Les vrais synthés, samples et effets de Sonic Pi, joués par un moteur audio à faible latence conçu pour Android
+• Le bouton Lecture devient rose pendant que votre musique joue ; Stop la coupe instantanément
+
+APPRENEZ EN JOUANT
+• L'aide intégrée couvre les exemples, le langage, les synthés, les effets et les samples
+• Ouvrez n'importe quel exemple directement dans un buffer et lancez-le
+• Touchez un sample dans l'aide pour l'écouter
+
+VOYEZ CE QUI JOUE
+• Un journal en direct de chaque note et sample, au format familier de Sonic Pi
+• Un panneau de cues qui liste chaque cue au moment où il se déclenche
+• Sur tablette, le journal et les cues s'affichent à côté de votre code
+
+CONÇU POUR VOTRE APPAREIL
+• Thèmes clair et sombre qui suivent le réglage de votre téléphone
+• Une mise en page pour téléphone avec onglets en bas, et un rail latéral sur tablette
+• Affichage bord à bord et geste de retour prédictif
+• Aucune autorisation de stockage : votre code reste dans le stockage privé de l'application, sauf si vous choisissez de l'enregistrer ailleurs
+
+Idéal pour les élèves qui apprennent à coder, les enseignants qui donnent des cours de musique et d'informatique, et les musiciens qui veulent esquisser des idées ou jouer en direct où qu'ils soient.
+
+OPEN SOURCE
+SuperSonic est un logiciel libre sous licence GNU AGPL v3 (ou ultérieure), basé sur le logiciel open source Sonic Pi. SuperSonic est un projet indépendant, qui n'est ni affilié au projet Sonic Pi ni approuvé par celui-ci ou par ses créateurs.
+
+---
+<META lang=bn-BD/>
+
+APP NAME
+
+SuperSonic
+
+SHORT DESCRIPTION (75/80)
+
+Sonic Pi-এর ভাষা, সিন্থ ও স্যাম্পল দিয়ে LIVE মিউজিক কোড করুন। পুরো অফলাইন।
+
+
+FULL DESCRIPTION (2374/4000)
+
+কোড লিখুন। মিউজিক বানান। লাইভ, আপনার পকেটে।
+
+SuperSonic আপনার Android ফোন ও ট্যাবলেটে নিয়ে আসে Sonic Pi—ক্লাসরুম, স্টুডিও আর মঞ্চে ব্যবহৃত লাইভ-কোডিং মিউজিক সিন্থ। কয়েকটি লাইন লিখুন, রান চাপুন, আর সঙ্গে সঙ্গে শুনুন। বাজার সময় কোড বদলান, মিউজিকও তার সঙ্গে বদলে যাবে।
+
+সবকিছু চলে আপনার ডিভাইসেই: ভাষা, সিন্থ ইঞ্জিন, স্যাম্পল আর ইফেক্ট। কোনো সার্ভার, অ্যাকাউন্ট বা ইন্টারনেট সংযোগের দরকার নেই।
+
+এডিটর
+• ডেস্কটপের Sonic Pi-এর মতো দশটি কোড বাফার, টাইপ করার সঙ্গে সঙ্গে সেভ হয়
+• Sonic Pi-এর সিনট্যাক্স রং আর Hack ফন্ট, লাইন নম্বর ও স্বয়ংক্রিয় ইনডেন্টসহ
+• কিবোর্ডের ওপরে একটি কী-বার, যাতে কোডের দরকারি চিহ্ন এবং আনডু, রিডু ও ইনডেন্ট আছে
+• ভুল যে লাইনে ঘটে, সেখানেই চিহ্নিত হয়
+• সিস্টেমের ফাইল পিকার দিয়ে যেকোনো জায়গায় .rb ফাইল খুলুন ও সেভ করুন
+
+স্মার্ট সাজেশন
+টাইপ করার সময় SuperSonic সেই সাজেশনই দেয়, যা Sonic Pi-এর নিজের এডিটর দেয়:
+• sample-এর পরে স্যাম্পল, use_synth-এর পরে সিন্থ
+• play-এর পরে বর্তমান সিন্থের অপশন
+• with_fx-এর ভেতরে ইফেক্টের অপশন
+• নোট, কর্ড আর স্কেল
+• দুটি অক্ষর টাইপ করলে ফাংশনের নাম
+কোনো ফাংশন, সিন্থ, ইফেক্ট বা স্যাম্পলের ওপর কার্সর রাখলে দেখবেন সেটি কী করে, আর পুরো ডকুমেন্টেশনের জন্য ট্যাপ করুন।
+
+সাউন্ড
+• Sonic Pi-এর আসল সিন্থ, স্যাম্পল আর ইফেক্ট, যা বাজায় Android-এর জন্য তৈরি লো-লেটেন্সি অডিও ইঞ্জিন
+• মিউজিক বাজার সময় রান বোতাম গোলাপি হয়ে যায়; স্টপ চাপলে সঙ্গে সঙ্গে থেমে যায়
+
+বাজাতে বাজাতে শিখুন
+• বিল্ট-ইন হেল্পে আছে উদাহরণ, ভাষা, সিন্থ, ইফেক্ট আর স্যাম্পল
+• যেকোনো উদাহরণ সরাসরি বাফারে খুলে চালান
+• শুনতে হেল্পে কোনো স্যাম্পলে ট্যাপ করুন
+
+দেখুন কী বাজছে
+• প্রতিটি নোট ও স্যাম্পলের লাইভ লগ, Sonic Pi-এর পরিচিত ফরম্যাটে
+• একটি কিউ প্যানেল, যেখানে প্রতিটি কিউ (cue) চালু হওয়ার সঙ্গে সঙ্গে দেখা যায়
+• ট্যাবলেটে লগ আর কিউ আপনার কোডের পাশেই থাকে
+
+আপনার ডিভাইসের জন্য তৈরি
+• লাইট ও ডার্ক থিম, যা আপনার ফোনের সেটিং অনুসরণ করে
+• ফোনে নিচে ট্যাব, ট্যাবলেটে পাশে রেল
+• এজ-টু-এজ ডিসপ্লে এবং প্রেডিক্টিভ ব্যাক জেসচার
+• স্টোরেজ অনুমতি লাগে না: আপনি অন্য কোথাও সেভ না করলে আপনার কোড অ্যাপের নিজস্ব স্টোরেজেই থাকে
+
+কোডিং শিখছে এমন শিক্ষার্থী, সংগীত ও কম্পিউটারের ক্লাস নেওয়া শিক্ষক, আর যেখানেই থাকুন আইডিয়া স্কেচ করতে বা লাইভ পারফর্ম করতে চাওয়া সংগীতশিল্পীদের জন্য একদম উপযুক্ত।
+
+ওপেন সোর্স
+SuperSonic হলো ওপেন-সোর্স Sonic Pi-এর ওপর ভিত্তি করে তৈরি, GNU AGPL v3 (বা পরবর্তী সংস্করণ) লাইসেন্সের অধীন একটি ফ্রি সফটওয়্যার। SuperSonic একটি স্বাধীন প্রকল্প; এটি Sonic Pi প্রকল্প বা এর নির্মাতাদের সঙ্গে যুক্ত নয় এবং তাদের দ্বারা অনুমোদিতও নয়।
+
+---
+<META lang=pt-BR/>
+
+APP NAME
+
+SuperSonic
+
+SHORT DESCRIPTION (79/80)
+
+Programe música AO VIVO com a linguagem, synths e samples do Sonic Pi. Offline.
+
+
+FULL DESCRIPTION (2652/4000)
+
+Escreva código. Faça música. Ao vivo, no seu bolso.
+
+O SuperSonic leva o Sonic Pi, o sintetizador musical de live coding usado em salas de aula, estúdios e palcos, para o seu celular e tablet Android. Digite algumas linhas, toque em executar e ouça na hora. Mude o código enquanto ele toca e a música muda junto.
+
+Tudo roda no seu dispositivo: a linguagem, o motor de síntese, os samples e os efeitos. Sem servidor, sem conta e sem precisar de internet.
+
+O EDITOR
+• Dez buffers de código, como no Sonic Pi para desktop, salvos enquanto você digita
+• As cores de sintaxe do Sonic Pi e a fonte Hack, com números de linha e recuo automático
+• Uma barra de teclas acima do teclado com os símbolos de que o código precisa, além de desfazer, refazer e recuar
+• Os erros são marcados na linha onde acontecem
+• Abra e salve arquivos .rb em qualquer lugar pelo seletor de arquivos do sistema
+
+SUGESTÕES INTELIGENTES
+Enquanto você digita, o SuperSonic sugere o mesmo que o editor do próprio Sonic Pi:
+• Samples depois de sample, synths depois de use_synth
+• As opções do synth atual depois de play
+• Opções de efeitos dentro de with_fx
+• Notas, acordes e escalas
+• Nomes de funções depois de duas letras
+Coloque o cursor sobre uma função, synth, efeito ou sample para ver o que ele faz, e toque para abrir a documentação completa.
+
+SOM
+• Os synths, samples e efeitos reais do Sonic Pi, tocados por um motor de áudio de baixa latência feito para Android
+• Executar fica rosa enquanto sua música toca; parar silencia na hora
+
+APRENDA TOCANDO
+• A ajuda integrada traz exemplos, a linguagem, synths, efeitos e samples
+• Abra qualquer exemplo direto em um buffer e execute
+• Toque em um sample na ajuda para ouvi-lo
+
+VEJA O QUE ESTÁ TOCANDO
+• Um log ao vivo de cada nota e sample, no formato conhecido do Sonic Pi
+• Um painel de cues que lista cada cue quando ele dispara
+• Em tablets, o log e os cues ficam ao lado do seu código
+
+FEITO PARA O SEU DISPOSITIVO
+• Temas claro e escuro que seguem a configuração do seu celular
+• Layout para celular com abas embaixo e uma barra lateral em tablets
+• Tela de ponta a ponta e gesto de voltar preditivo
+• Sem permissão de armazenamento: seu código fica no armazenamento privado do app, a menos que você escolha salvá-lo em outro lugar
+
+Perfeito para estudantes aprendendo a programar, professores de música e computação, e músicos que querem rascunhar ideias ou tocar ao vivo onde estiverem.
+
+CÓDIGO ABERTO
+O SuperSonic é software livre sob a GNU AGPL v3 (ou posterior), baseado no Sonic Pi, de código aberto. O SuperSonic é um projeto independente e não é afiliado nem endossado pelo projeto Sonic Pi ou por seus criadores.
+
+---
+<META lang=ru-RU/>
+
+APP NAME
+
+SuperSonic
+
+SHORT DESCRIPTION (76/80)
+
+Создавайте музыку кодом ВЖИВУЮ: язык, синтезаторы и сэмплы Sonic Pi. Офлайн.
+
+
+FULL DESCRIPTION (2720/4000)
+
+Пишите код. Создавайте музыку. Вживую, прямо в кармане.
+
+SuperSonic переносит Sonic Pi — музыкальный синтезатор для лайв-кодинга, который используют в школах, студиях и на сцене, — на ваш Android-смартфон и планшет. Наберите пару строк, нажмите «Запуск» и сразу услышите результат. Меняйте код, пока он играет, — и музыка меняется вместе с ним.
+
+Всё работает на вашем устройстве: язык, движок синтеза, сэмплы и эффекты. Без сервера, без аккаунта и без подключения к интернету.
+
+РЕДАКТОР
+• Десять буферов кода, как в Sonic Pi на компьютере, сохраняются по мере ввода
+• Подсветка синтаксиса Sonic Pi и шрифт Hack, с номерами строк и автоотступами
+• Панель клавиш над клавиатурой с нужными для кода символами, а также отмена, повтор и отступ
+• Ошибки отмечаются в той строке, где они возникли
+• Открывайте и сохраняйте файлы .rb где угодно через системный выбор файлов
+
+УМНЫЕ ПОДСКАЗКИ
+Пока вы печатаете, SuperSonic предлагает то же, что и редактор самого Sonic Pi:
+• Сэмплы после sample, синтезаторы после use_synth
+• Параметры текущего синтезатора после play
+• Параметры эффектов внутри with_fx
+• Ноты, аккорды и гаммы
+• Имена функций после двух букв
+Поставьте курсор на функцию, синтезатор, эффект или сэмпл, чтобы увидеть, что он делает, и нажмите, чтобы открыть полную документацию.
+
+ЗВУК
+• Настоящие синтезаторы, сэмплы и эффекты Sonic Pi, которые воспроизводит аудиодвижок с низкой задержкой, созданный для Android
+• Кнопка запуска становится розовой, пока играет музыка; «Стоп» мгновенно её останавливает
+
+УЧИТЕСЬ, ИГРАЯ
+• Встроенная справка охватывает примеры, язык, синтезаторы, эффекты и сэмплы
+• Открывайте любой пример прямо в буфере и запускайте его
+• Нажмите на сэмпл в справке, чтобы его послушать
+
+СМОТРИТЕ, ЧТО ЗВУЧИТ
+• Живой журнал каждой ноты и сэмпла в привычном формате Sonic Pi
+• Панель сигналов (cue), где появляется каждый сигнал в момент срабатывания
+• На планшетах журнал и сигналы располагаются рядом с кодом
+
+СОЗДАНО ДЛЯ ВАШЕГО УСТРОЙСТВА
+• Светлая и тёмная темы, которые следуют настройкам телефона
+• Интерфейс для телефона с вкладками внизу и боковой панелью на планшетах
+• Отображение от края до края и жест «Назад» с предпросмотром
+• Без доступа к хранилищу: ваш код остаётся в личном хранилище приложения, если вы сами не решите сохранить его в другом месте
+
+Идеально для учеников, которые учатся программировать, учителей музыки и информатики, а также музыкантов, которые хотят набрасывать идеи или выступать вживую где угодно.
+
+ОТКРЫТЫЙ ИСХОДНЫЙ КОД
+SuperSonic — свободное ПО под лицензией GNU AGPL v3 (или более поздней), основанное на проекте с открытым исходным кодом Sonic Pi. SuperSonic — независимый проект, не связанный с проектом Sonic Pi или его создателями и не одобренный ими.
+
+---
+<META lang=id/>
+
+APP NAME
+
+SuperSonic
+
+SHORT DESCRIPTION (78/80)
+
+Buat musik LIVE lewat kode dengan bahasa, synth, dan sampel Sonic Pi. Offline.
+
+
+FULL DESCRIPTION (2610/4000)
+
+Tulis kode. Buat musik. Secara live, di saku Anda.
+
+SuperSonic menghadirkan Sonic Pi, synth musik live coding yang dipakai di kelas, studio, dan panggung, ke ponsel dan tablet Android Anda. Ketik beberapa baris, tekan jalankan, dan langsung dengarkan. Ubah kodenya saat sedang dimainkan, dan musiknya ikut berubah.
+
+Semuanya berjalan di perangkat Anda: bahasanya, mesin synth, sampel, dan efeknya. Tanpa server, tanpa akun, dan tanpa koneksi internet.
+
+EDITOR
+• Sepuluh buffer kode, seperti Sonic Pi di desktop, tersimpan saat Anda mengetik
+• Warna sintaksis Sonic Pi dan font Hack, dengan nomor baris dan indentasi otomatis
+• Bilah tombol di atas keyboard berisi simbol yang dibutuhkan kode, plus urungkan, ulangi, dan indentasi
+• Error ditandai pada baris tempat terjadinya
+• Buka dan simpan file .rb di mana saja lewat pemilih file sistem
+
+SARAN PINTAR
+Saat Anda mengetik, SuperSonic menawarkan apa yang ditawarkan editor Sonic Pi sendiri:
+• Sampel setelah sample, synth setelah use_synth
+• Opsi synth saat ini setelah play
+• Opsi efek di dalam with_fx
+• Not, akor, dan tangga nada
+• Nama fungsi setelah dua huruf
+Letakkan kursor pada fungsi, synth, efek, atau sampel untuk melihat fungsinya, lalu ketuk untuk membuka dokumentasi lengkap.
+
+SUARA
+• Synth, sampel, dan efek asli Sonic Pi, dimainkan oleh mesin audio berlatensi rendah yang dibuat untuk Android
+• Tombol jalankan berubah merah muda saat musik Anda diputar; tombol stop langsung menghentikannya
+
+BELAJAR SAMBIL BERMAIN
+• Bantuan bawaan mencakup contoh, bahasa, synth, efek, dan sampel
+• Buka contoh apa pun langsung di buffer dan jalankan
+• Ketuk sampel di bantuan untuk mendengarnya
+
+LIHAT APA YANG DIMAINKAN
+• Log live setiap not dan sampel, dalam format Sonic Pi yang sudah dikenal
+• Panel cue yang menampilkan setiap cue saat terpicu
+• Di tablet, log dan cue berada di samping kode Anda
+
+DIRANCANG UNTUK PERANGKAT ANDA
+• Tema terang dan gelap yang mengikuti setelan ponsel Anda
+• Tata letak ponsel dengan tab di bawah, dan rail samping di tablet
+• Tampilan edge-to-edge dan gestur kembali prediktif
+• Tanpa izin penyimpanan: kode Anda tetap di penyimpanan pribadi aplikasi, kecuali Anda memilih menyimpannya di tempat lain
+
+Cocok untuk siswa yang belajar coding, guru yang mengajar musik dan komputer, serta musisi yang ingin membuat sketsa ide atau tampil live di mana saja.
+
+OPEN SOURCE
+SuperSonic adalah perangkat lunak bebas di bawah GNU AGPL v3 (atau yang lebih baru), dibangun di atas Sonic Pi yang open source. SuperSonic adalah proyek independen dan tidak berafiliasi dengan maupun didukung oleh proyek Sonic Pi atau para pembuatnya.
+
+---
+<META lang=de-DE/>
+
+APP NAME
+
+SuperSonic
+
+SHORT DESCRIPTION (76/80)
+
+Musik LIVE programmieren mit Sonic Pis Sprache, Synths und Samples. Offline.
+
+
+FULL DESCRIPTION (2848/4000)
+
+Code schreiben. Musik machen. Live, in deiner Tasche.
+
+SuperSonic bringt Sonic Pi, den Live-Coding-Musiksynth, der in Klassenzimmern, Studios und auf der Bühne genutzt wird, auf dein Android-Smartphone und -Tablet. Tippe ein paar Zeilen, drücke auf Start und hör es sofort. Ändere den Code, während er spielt, und die Musik ändert sich mit.
+
+Alles läuft auf deinem Gerät: die Sprache, die Synth-Engine, die Samples und die Effekte. Kein Server, kein Konto und keine Internetverbindung nötig.
+
+DER EDITOR
+• Zehn Code-Puffer wie bei Sonic Pi auf dem Desktop, die beim Tippen gespeichert werden
+• Die Syntaxfarben von Sonic Pi und die Schrift Hack, mit Zeilennummern und automatischem Einrücken
+• Eine Tastenleiste über der Tastatur mit den Zeichen, die Code braucht, plus Rückgängig, Wiederholen und Einrücken
+• Fehler werden in der Zeile markiert, in der sie auftreten
+• .rb-Dateien überall über die Dateiauswahl des Systems öffnen und speichern
+
+INTELLIGENTE VORSCHLÄGE
+Beim Tippen schlägt SuperSonic vor, was auch der Editor von Sonic Pi vorschlägt:
+• Samples nach sample, Synths nach use_synth
+• Die Optionen des aktuellen Synths nach play
+• Effektoptionen in with_fx
+• Noten, Akkorde und Tonleitern
+• Funktionsnamen nach zwei Buchstaben
+Setze den Cursor auf eine Funktion, einen Synth, einen Effekt oder ein Sample, um zu sehen, was es tut, und tippe darauf für die vollständige Dokumentation.
+
+SOUND
+• Die echten Synths, Samples und Effekte von Sonic Pi, gespielt von einer Audio-Engine mit niedriger Latenz, gebaut für Android
+• Start leuchtet pink, solange deine Musik spielt; Stopp bringt sie sofort zum Schweigen
+
+LERNEN BEIM SPIELEN
+• Die integrierte Hilfe umfasst Beispiele, die Sprache, Synths, Effekte und Samples
+• Öffne jedes Beispiel direkt in einem Puffer und starte es
+• Tippe in der Hilfe auf ein Sample, um es zu hören
+
+SIEH, WAS SPIELT
+• Ein Live-Log jeder Note und jedes Samples im vertrauten Format von Sonic Pi
+• Ein Cue-Bereich, der jeden Cue anzeigt, sobald er ausgelöst wird
+• Auf Tablets stehen Log und Cues neben deinem Code
+
+FÜR DEIN GERÄT GEMACHT
+• Helles und dunkles Design, passend zur Einstellung deines Smartphones
+• Smartphone-Layout mit Tabs unten und einer Seitenleiste auf Tablets
+• Randlose Darstellung und vorausschauende Zurück-Geste
+• Keine Speicherberechtigung: Dein Code bleibt im privaten Speicher der App, außer du speicherst ihn selbst woanders
+
+Perfekt für Schülerinnen und Schüler, die programmieren lernen, Lehrkräfte im Musik- und Informatikunterricht und Musiker, die überall Ideen skizzieren oder live auftreten wollen.
+
+OPEN SOURCE
+SuperSonic ist freie Software unter der GNU AGPL v3 (oder später) und basiert auf dem Open-Source-Projekt Sonic Pi. SuperSonic ist ein unabhängiges Projekt, steht in keiner Verbindung zum Sonic-Pi-Projekt oder seinen Machern und wird nicht von ihnen unterstützt.
+
+---
+<META lang=ja-JP/>
+
+APP NAME
+
+SuperSonic
+
+SHORT DESCRIPTION (43/80)
+
+Sonic Piの言語・シンセ・サンプルで、音楽をライブコーディング。完全オフライン。
+
+
+FULL DESCRIPTION (1326/4000)
+
+コードを書く。音楽をつくる。ライブで、ポケットの中で。
+
+SuperSonicは、教室やスタジオ、ステージで使われているライブコーディング音楽シンセ「Sonic Pi」を、Androidのスマートフォンやタブレットで動かします。数行入力して実行を押せば、すぐに音が鳴ります。演奏中にコードを書き換えれば、音楽もそれに合わせて変わります。
+
+言語、シンセエンジン、サンプル、エフェクトなど、すべてが端末上で動作します。サーバーもアカウントもインターネット接続も不要です。
+
+エディター
+• デスクトップ版Sonic Piと同じ10個のコードバッファ。入力と同時に保存
+• Sonic Piのシンタックスカラーと Hack フォント、行番号と自動インデント
+• キーボードの上に、コードに必要な記号と元に戻す・やり直し・インデントを並べたキーバー
+• エラーは発生した行に表示
+• システムのファイル選択画面から、.rbファイルをどこにでも開いて保存
+
+スマートな入力候補
+入力中、SuperSonicはSonic Pi本体のエディターと同じ候補を表示します：
+• sample の後にはサンプル、use_synth の後にはシンセ
+• play の後には現在のシンセのオプション
+• with_fx の中ではエフェクトのオプション
+• 音名、コード、スケール
+• 2文字入力すると関数名
+関数、シンセ、エフェクト、サンプルにカーソルを置くと説明が表示され、タップすると詳しいドキュメントが開きます。
+
+サウンド
+• Android向けに作られた低レイテンシのオーディオエンジンで鳴る、本物のSonic Piのシンセ、サンプル、エフェクト
+• 演奏中は実行ボタンがピンクに。停止ですぐに音が止まります
+
+弾きながら学ぶ
+• 内蔵ヘルプで、コード例、言語、シンセ、エフェクト、サンプルを確認
+• どのコード例もそのままバッファに開いて実行
+• ヘルプ内のサンプルをタップして試聴
+
+いま鳴っている音を見る
+• すべてのノートとサンプルを、おなじみのSonic Pi形式でリアルタイムにログ表示
+• キュー（cue）が発生するたびに一覧表示するキューパネル
+• タブレットでは、ログとキューがコードの横に並びます
+
+あなたの端末のためのデザイン
+• 端末の設定に合わせて切り替わるライトテーマとダークテーマ
+• スマートフォンでは下部タブ、タブレットではサイドレール
+• エッジツーエッジ表示と予測型「戻る」ジェスチャーに対応
+• ストレージ権限は不要：コードはアプリ専用の領域に保存され、ほかの場所へ保存するかはあなたが選べます
+
+プログラミングを学ぶ学生、音楽や情報の授業をする先生、どこでもアイデアをスケッチしたりライブ演奏したりしたいミュージシャンにぴったりです。
+
+オープンソース
+SuperSonicは、オープンソースのSonic Piをもとにした、GNU AGPL v3（またはそれ以降）のフリーソフトウェアです。SuperSonicは独立したプロジェクトであり、Sonic Piプロジェクトやその開発者とは提携しておらず、承認も受けていません。
+
+---
+<META lang=tr-TR/>
+
+APP NAME
+
+SuperSonic
+
+SHORT DESCRIPTION (78/80)
+
+Sonic Pi'nin dili, synth'leri ve sample'larıyla CANLI müzik kodla. Çevrimdışı.
+
+
+FULL DESCRIPTION (2557/4000)
+
+Kod yaz. Müzik yap. Canlı, cebinde.
+
+SuperSonic; sınıflarda, stüdyolarda ve sahnede kullanılan canlı kodlama müzik synth'i Sonic Pi'yi Android telefonuna ve tabletine getiriyor. Birkaç satır yaz, çalıştır'a bas ve hemen dinle. Kod çalarken onu değiştir; müzik de onunla birlikte değişsin.
+
+Her şey cihazında çalışır: dil, synth motoru, sample'lar ve efektler. Sunucu, hesap ya da internet bağlantısı gerekmez.
+
+EDİTÖR
+• Masaüstündeki Sonic Pi gibi on kod arabelleği; yazarken kaydedilir
+• Sonic Pi'nin sözdizimi renkleri ve Hack yazı tipi, satır numaraları ve otomatik girintiyle
+• Klavyenin üstünde, kodun ihtiyaç duyduğu sembollerin yanı sıra geri al, yinele ve girinti tuşlarını içeren bir tuş çubuğu
+• Hatalar, oluştukları satırda işaretlenir
+• Sistem dosya seçicisiyle .rb dosyalarını istediğin yerde aç ve kaydet
+
+AKILLI ÖNERİLER
+Sen yazarken SuperSonic, Sonic Pi'nin kendi editörünün sunduklarını sunar:
+• sample'dan sonra sample'lar, use_synth'ten sonra synth'ler
+• play'den sonra geçerli synth'in seçenekleri
+• with_fx içinde efekt seçenekleri
+• Notalar, akorlar ve diziler
+• İki harften sonra fonksiyon adları
+İmleci bir fonksiyon, synth, efekt ya da sample'ın üzerine getirerek ne yaptığını gör; tam belgeler için dokun.
+
+SES
+• Android için geliştirilmiş düşük gecikmeli bir ses motoruyla çalınan gerçek Sonic Pi synth'leri, sample'ları ve efektleri
+• Müziğin çalarken çalıştır düğmesi pembeye döner; durdur onu anında susturur
+
+ÇALARAK ÖĞREN
+• Yerleşik yardım; örnekleri, dili, synth'leri, efektleri ve sample'ları kapsar
+• Herhangi bir örneği doğrudan bir arabellekte açıp çalıştır
+• Dinlemek için yardımdaki bir sample'a dokun
+
+NE ÇALDIĞINI GÖR
+• Her nota ve sample'ın, Sonic Pi'nin tanıdık biçiminde canlı kaydı
+• Her cue'yu tetiklendiği anda listeleyen bir cue paneli
+• Tabletlerde kayıt ve cue'lar kodunun yanında durur
+
+CİHAZIN İÇİN TASARLANDI
+• Telefonunun ayarını izleyen açık ve koyu temalar
+• Telefonda alt sekmeler, tablette yan ray
+• Kenardan kenara ekran ve tahmine dayalı geri hareketi
+• Depolama izni yok: Başka bir yere kaydetmeyi seçmediğin sürece kodun uygulamanın özel depolama alanında kalır
+
+Kodlamayı öğrenen öğrenciler, müzik ve bilgisayar dersi veren öğretmenler ve nerede olursa olsun fikir taslağı çıkarmak ya da canlı performans yapmak isteyen müzisyenler için ideal.
+
+AÇIK KAYNAK
+SuperSonic, açık kaynaklı Sonic Pi üzerine kurulu, GNU AGPL v3 (veya sonrası) lisanslı özgür bir yazılımdır. SuperSonic bağımsız bir projedir; Sonic Pi projesi veya yaratıcılarıyla bağlantılı değildir ve onlar tarafından onaylanmamıştır.
+
+---
+<META lang=vi/>
+
+APP NAME
+
+SuperSonic
+
+SHORT DESCRIPTION (79/80)
+
+Lập trình nhạc TRỰC TIẾP với ngôn ngữ, synth, sample của Sonic Pi. Ngoại tuyến.
+
+
+FULL DESCRIPTION (2521/4000)
+
+Viết code. Làm nhạc. Trực tiếp, ngay trong túi bạn.
+
+SuperSonic mang Sonic Pi, bộ synth âm nhạc live coding được dùng trong lớp học, phòng thu và trên sân khấu, đến điện thoại và máy tính bảng Android của bạn. Gõ vài dòng, nhấn chạy và nghe ngay lập tức. Sửa code khi nhạc đang phát và âm nhạc sẽ thay đổi theo.
+
+Mọi thứ chạy trên thiết bị của bạn: ngôn ngữ, engine synth, sample và hiệu ứng. Không cần máy chủ, không cần tài khoản và không cần kết nối internet.
+
+TRÌNH SOẠN THẢO
+• Mười buffer code, giống Sonic Pi trên máy tính, tự lưu khi bạn gõ
+• Màu cú pháp của Sonic Pi và font Hack, có số dòng và tự động thụt lề
+• Thanh phím phía trên bàn phím với các ký hiệu cần cho code, cùng hoàn tác, làm lại và thụt lề
+• Lỗi được đánh dấu ngay tại dòng xảy ra
+• Mở và lưu file .rb ở bất kỳ đâu qua trình chọn file của hệ thống
+
+GỢI Ý THÔNG MINH
+Khi bạn gõ, SuperSonic gợi ý giống như trình soạn thảo của chính Sonic Pi:
+• Sample sau sample, synth sau use_synth
+• Tùy chọn của synth hiện tại sau play
+• Tùy chọn hiệu ứng bên trong with_fx
+• Nốt, hợp âm và âm giai
+• Tên hàm sau hai chữ cái
+Đặt con trỏ lên một hàm, synth, hiệu ứng hoặc sample để xem nó làm gì, và chạm để mở tài liệu đầy đủ.
+
+ÂM THANH
+• Synth, sample và hiệu ứng thật của Sonic Pi, được phát bởi engine âm thanh độ trễ thấp xây dựng cho Android
+• Nút chạy chuyển sang màu hồng khi nhạc của bạn đang phát; nút dừng tắt tiếng ngay lập tức
+
+VỪA CHƠI VỪA HỌC
+• Trợ giúp tích hợp gồm ví dụ, ngôn ngữ, synth, hiệu ứng và sample
+• Mở bất kỳ ví dụ nào thẳng vào một buffer và chạy
+• Chạm vào một sample trong trợ giúp để nghe thử
+
+XEM NHỮNG GÌ ĐANG PHÁT
+• Nhật ký trực tiếp của từng nốt và sample, theo định dạng quen thuộc của Sonic Pi
+• Bảng cue liệt kê mỗi cue ngay khi nó được kích hoạt
+• Trên máy tính bảng, nhật ký và cue nằm cạnh code của bạn
+
+THIẾT KẾ CHO THIẾT BỊ CỦA BẠN
+• Giao diện sáng và tối theo cài đặt của điện thoại
+• Bố cục điện thoại với tab ở dưới, và thanh điều hướng ở cạnh màn hình trên máy tính bảng
+• Hiển thị tràn viền và cử chỉ quay lại dự đoán
+• Không cần quyền bộ nhớ: code của bạn nằm trong bộ nhớ riêng của ứng dụng, trừ khi bạn chọn lưu ở nơi khác
+
+Hoàn hảo cho học sinh học lập trình, giáo viên dạy âm nhạc và tin học, và nhạc sĩ muốn phác thảo ý tưởng hoặc biểu diễn trực tiếp ở bất cứ đâu.
+
+MÃ NGUỒN MỞ
+SuperSonic là phần mềm tự do theo giấy phép GNU AGPL v3 (hoặc mới hơn), xây dựng dựa trên Sonic Pi mã nguồn mở. SuperSonic là dự án độc lập, không liên kết với dự án Sonic Pi hay những người tạo ra nó và không được họ chứng nhận.
+
+---
+<META lang=ko-KR/>
+
+APP NAME
+
+SuperSonic
+
+SHORT DESCRIPTION (45/80)
+
+Sonic Pi의 언어, 신스, 샘플로 음악을 라이브 코딩하세요. 완전 오프라인.
+
+
+FULL DESCRIPTION (1338/4000)
+
+코드를 쓰고, 음악을 만드세요. 라이브로, 주머니 속에서.
+
+SuperSonic은 교실과 스튜디오, 무대에서 쓰이는 라이브 코딩 음악 신스 Sonic Pi를 Android 휴대전화와 태블릿으로 가져옵니다. 몇 줄을 입력하고 실행을 누르면 바로 들을 수 있습니다. 연주 중에 코드를 바꾸면 음악도 함께 바뀝니다.
+
+언어, 신스 엔진, 샘플, 이펙트까지 모두 기기에서 실행됩니다. 서버도, 계정도, 인터넷 연결도 필요 없습니다.
+
+편집기
+• 데스크톱 Sonic Pi처럼 10개의 코드 버퍼, 입력하는 대로 저장
+• Sonic Pi의 구문 색상과 Hack 글꼴, 줄 번호와 자동 들여쓰기
+• 키보드 위의 키 바: 코드에 필요한 기호와 실행 취소, 다시 실행, 들여쓰기
+• 오류가 발생한 줄에 표시
+• 시스템 파일 선택기로 어디서든 .rb 파일 열기 및 저장
+
+스마트 추천
+입력하는 동안 SuperSonic은 Sonic Pi 편집기와 같은 추천을 제공합니다:
+• sample 뒤에는 샘플, use_synth 뒤에는 신스
+• play 뒤에는 현재 신스의 옵션
+• with_fx 안에서는 이펙트 옵션
+• 음, 코드, 스케일
+• 두 글자를 입력하면 함수 이름
+함수, 신스, 이펙트, 샘플에 커서를 두면 설명이 보이고, 탭하면 전체 문서가 열립니다.
+
+사운드
+• Android용으로 만든 저지연 오디오 엔진이 재생하는 진짜 Sonic Pi 신스, 샘플, 이펙트
+• 음악이 재생되는 동안 실행 버튼이 분홍색으로 바뀌고, 정지를 누르면 즉시 멈춥니다
+
+연주하며 배우기
+• 내장 도움말에서 예제, 언어, 신스, 이펙트, 샘플 확인
+• 어떤 예제든 버퍼로 바로 열어 실행
+• 도움말에서 샘플을 탭해 들어보기
+
+지금 재생 중인 소리 보기
+• 모든 음과 샘플을 익숙한 Sonic Pi 형식으로 보여주는 실시간 로그
+• 큐(cue)가 발생할 때마다 표시하는 큐 패널
+• 태블릿에서는 로그와 큐가 코드 옆에 표시
+
+내 기기에 맞춘 디자인
+• 휴대전화 설정을 따르는 라이트 테마와 다크 테마
+• 휴대전화에서는 하단 탭, 태블릿에서는 사이드 레일
+• 전체 화면(edge-to-edge) 표시와 뒤로 가기 예측 동작 지원
+• 저장소 권한 불필요: 다른 곳에 저장하기로 선택하지 않는 한 코드는 앱의 비공개 저장소에 보관됩니다
+
+코딩을 배우는 학생, 음악과 정보 수업을 하는 선생님, 어디서나 아이디어를 스케치하거나 라이브 공연을 하고 싶은 뮤지션에게 딱 맞습니다.
+
+오픈 소스
+SuperSonic은 오픈 소스 Sonic Pi를 기반으로 한 GNU AGPL v3(또는 이후 버전) 자유 소프트웨어입니다. SuperSonic은 독립 프로젝트이며 Sonic Pi 프로젝트나 그 제작자와 제휴 관계가 없고 보증을 받지도 않았습니다.
+
+---
+<META lang=it-IT/>
+
+APP NAME
+
+SuperSonic
+
+SHORT DESCRIPTION (80/80)
+
+Programma musica DAL VIVO con linguaggio, synth e campioni di Sonic Pi. Offline.
+
+
+FULL DESCRIPTION (2678/4000)
+
+Scrivi codice. Fai musica. Dal vivo, in tasca.
+
+SuperSonic porta Sonic Pi, il synth musicale per il live coding usato in aula, in studio e sul palco, sul tuo telefono e tablet Android. Scrivi qualche riga, premi esegui e ascolta subito. Cambia il codice mentre suona e la musica cambia con lui.
+
+Tutto funziona sul tuo dispositivo: il linguaggio, il motore di sintesi, i campioni e gli effetti. Niente server, niente account e nessuna connessione a Internet.
+
+L'EDITOR
+• Dieci buffer di codice, come Sonic Pi su desktop, salvati mentre scrivi
+• I colori della sintassi di Sonic Pi e il font Hack, con numeri di riga e rientro automatico
+• Una barra di tasti sopra la tastiera con i simboli che servono al codice, più annulla, ripeti e rientro
+• Gli errori vengono segnati sulla riga in cui si verificano
+• Apri e salva file .rb ovunque tramite il selettore di file di sistema
+
+SUGGERIMENTI INTELLIGENTI
+Mentre scrivi, SuperSonic propone ciò che propone l'editor di Sonic Pi:
+• Campioni dopo sample, synth dopo use_synth
+• Le opzioni del synth corrente dopo play
+• Le opzioni degli effetti dentro with_fx
+• Note, accordi e scale
+• Nomi delle funzioni dopo due lettere
+Metti il cursore su una funzione, un synth, un effetto o un campione per vedere cosa fa, e tocca per la documentazione completa.
+
+SUONO
+• I veri synth, campioni ed effetti di Sonic Pi, suonati da un motore audio a bassa latenza creato per Android
+• Esegui diventa rosa mentre la tua musica suona; Stop la ferma all'istante
+
+IMPARA SUONANDO
+• La guida integrata copre esempi, il linguaggio, synth, effetti e campioni
+• Apri qualsiasi esempio direttamente in un buffer ed eseguilo
+• Tocca un campione nella guida per ascoltarlo
+
+GUARDA COSA SUONA
+• Un log dal vivo di ogni nota e campione, nel formato familiare di Sonic Pi
+• Un pannello dei cue che elenca ogni cue quando scatta
+• Sui tablet, log e cue stanno accanto al tuo codice
+
+PROGETTATO PER IL TUO DISPOSITIVO
+• Temi chiaro e scuro che seguono le impostazioni del telefono
+• Layout per telefono con schede in basso e una barra laterale sui tablet
+• Visualizzazione edge-to-edge e gesto Indietro predittivo
+• Nessuna autorizzazione di archiviazione: il tuo codice resta nello spazio privato dell'app, a meno che tu non scelga di salvarlo altrove
+
+Perfetta per studenti che imparano a programmare, insegnanti di musica e informatica e musicisti che vogliono abbozzare idee o esibirsi dal vivo ovunque si trovino.
+
+OPEN SOURCE
+SuperSonic è software libero con licenza GNU AGPL v3 (o successiva), basato sul progetto open source Sonic Pi. SuperSonic è un progetto indipendente, non affiliato al progetto Sonic Pi né approvato dal progetto o dai suoi creatori.
+
+---
+<META lang=cs-CZ/>
+
+APP NAME
+
+SuperSonic
+
+SHORT DESCRIPTION (74/80)
+
+Kódujte hudbu ŽIVĚ s jazykem, syntezátory a samply Sonic Pi. Plně offline.
+
+
+FULL DESCRIPTION (2610/4000)
+
+Pište kód. Tvořte hudbu. Živě, ve vaší kapse.
+
+SuperSonic přináší Sonic Pi, hudební syntezátor pro živé kódování používaný ve třídách, studiích a na pódiu, do vašeho telefonu a tabletu s Androidem. Napište pár řádků, stiskněte Spustit a hned si to poslechněte. Změňte kód během přehrávání a hudba se s ním změní.
+
+Všechno běží na vašem zařízení: jazyk, syntezátorový engine, samply a efekty. Není potřeba žádný server, žádný účet ani připojení k internetu.
+
+EDITOR
+• Deset vyrovnávacích pamětí kódu, jako Sonic Pi na počítači, ukládaných během psaní
+• Barvy syntaxe Sonic Pi a písmo Hack s čísly řádků a automatickým odsazením
+• Panel kláves nad klávesnicí se symboly, které kód potřebuje, plus funkce vrácení zpět, opakování a odsazení
+• Chyby jsou označeny na řádku, kde k nim došlo
+• Otevírejte a ukládejte soubory .rb kdekoli pomocí systémového výběru souborů
+
+CHYTRÉ NÁVRHY
+Při psaní SuperSonic nabízí to, co nabízí vlastní editor Sonic Pi:
+• Samply za sample, syntezátory za use_synth
+• Možnosti aktuálního syntezátoru za play
+• Možnosti efektů uvnitř with_fx
+• Noty, akordy a stupnice
+• Názvy funkcí za dvěma písmeny
+Umístěte kurzor na funkci, syntezátor, efekt nebo sample a podívejte se, co dělá, a klepnutím zobrazíte úplnou dokumentaci.
+
+ZVUK
+• Skutečné syntezátory, samply a efekty Sonic Pi, přehrávané zvukovým enginem s nízkou latencí vytvořeným pro Android
+• Spustit zrůžoví, zatímco hraje hudba; Zastavit ji okamžitě ztiší
+
+UČTE SE PŘI HRANÍ
+• Vestavěná nápověda zahrnuje příklady, jazyk, syntezátory, efekty a samply
+• Otevřete libovolný příklad přímo do vyrovnávací paměti a spusťte ho
+• Klepněte na sampl v nápovědě a poslechněte si ho
+
+ZOBRAZTE, CO SE PŘEHRÁVÁ
+• Živý záznam každé noty a samplu ve formátu známém pro Sonic Pi
+• Panel s cues, který zobrazuje každý cue při jeho spuštění
+• Na tabletech se log a cues nacházejí vedle vašeho kódu
+
+NAVRŽENO PRO VAŠE ZAŘÍZENÍ
+• Světlá a tmavá témata, která odpovídají nastavení vašeho telefonu
+• Rozvržení telefonu se spodními záložkami a boční lištou na tabletech
+• Zobrazení od okraje k okraji a prediktivní gesta zpět
+• Žádné povolení k ukládání: váš kód zůstane v soukromém úložišti aplikace, pokud se nerozhodnete jej uložit jinam
+
+Ideální pro studenty, kteří se učí programovat, učitele, kteří vedou hodiny hudby a informatiky, a hudebníky, kteří chtějí načrtávat nápady nebo vystupovat živě, ať jsou kdekoli.
+
+OPEN SOURCE
+SuperSonic je svobodný software pod licencí GNU AGPL v3 (nebo novější), postavený na open-source Sonic Pi. SuperSonic je nezávislý projekt a není spojen s projektem Sonic Pi ani s jeho tvůrci, ani jimi není schválen.
+
+---
+<META lang=da-DK/>
+
+APP NAME
+
+SuperSonic
+
+SHORT DESCRIPTION (75/80)
+
+Kod musik LIVE med Sonic Pis sprog, synthesizere og samples. Fuldt offline.
+
+
+FULL DESCRIPTION (2626/4000)
+
+Skriv kode. Lav musik. Live, lige i lommen.
+
+SuperSonic bringer Sonic Pi – musik-synthen til live-kodning, der bruges i klasseværelser, studier og på scenen – til din Android-telefon og tablet. Skriv et par linjer, tryk på kør, og hør resultatet med det samme. Skift koden, mens musikken spiller, og musikken ændrer sig med den.
+
+Alt kører direkte på din enhed: sproget, synth-motoren, samples og effekter (FX). Ingen server, ingen konto og ingen internetforbindelse nødvendig.
+
+EDITOREN
+• Ti kode-buffere, ligesom i Sonic Pi på computeren, gemmes automatisk, mens du skriver
+• Sonic Pi's syntaksfarver og Hack-skrifttypen, med linjenumre og automatisk indrykning
+• En tastelinje over tastaturet med de symboler, koden kræver, plus fortryd, gentag og indryk
+• Fejl markeres direkte på den linje, hvor de opstår
+• Åbn og gem .rb-filer hvor som helst via systemets filvælger
+
+SMARTE FORSLAG
+Mens du skriver, tilbyder SuperSonic de samme forslag som Sonic Pi's egen editor:
+• Samples efter sample, synths efter use_synth
+• Den aktuelle synths muligheder efter play
+• FX-muligheder inde i with_fx
+• Noder, akkorder og skalaer
+• Funktionsnavne efter to bogstaver
+Placer markøren på en funktion, synth, effekt eller sample for at se, hvad den gør, og tryk for at få vist den fulde dokumentation.
+
+LYD
+• De ægte Sonic Pi synths, samples og effekter, afspillet af en lydmotor med lav forsinkelse, bygget specifikt til Android
+• 'Kør'-knappen bliver lyserød, mens din musik spiller; 'stop' slukker lyden med det samme
+
+LÆR MENS DU SPILLER
+• Den indbyggede hjælp dækker eksempler, sproget, synths, effekter og samples
+• Åbn ethvert eksempel direkte i en buffer og kør det
+• Tryk på et sample i hjælpen for at høre det
+
+SE HVAD DER SPILLES
+• En live log over hver tone og sample, i Sonic Pi's velkendte format
+• Et 'cues'-panel, der viser hver cue, når den udløses
+• På tablets vises loggen og cues ved siden af din kode
+
+DESIGNET TIL DIN ENHED
+• Lyse og mørke temaer, der følger din telefons indstillinger
+• Et telefonlayout med faner i bunden og en sidemenu på tablets
+• Kant-til-kant-skærm og prædiktive tilbage-bevægelser
+• Ingen lagringstilladelse: din kode forbliver i appens private lager, medmindre du vælger at gemme den et andet sted
+
+Perfekt til studerende, der lærer at kode, lærere, der underviser i musik og IT, og musikere, der ønsker at skitsere ideer eller optræde live, uanset hvor de befinder sig.
+
+OPEN SOURCE
+SuperSonic er fri software under GNU AGPL v3 (eller senere), bygget på open source Sonic Pi. SuperSonic er et uafhængigt projekt og er ikke tilknyttet eller godkendt af Sonic Pi-projektet eller dets skabere.
+
+---
+<META lang=fi-FI/>
+
+APP NAME
+
+SuperSonic
+
+SHORT DESCRIPTION (80/80)
+
+Koodaa musiikkia LIVENÄ Sonic Pi:n kielellä, syntikoilla ja sampleilla. Offline.
+
+
+FULL DESCRIPTION (2916/4000)
+
+Kirjoita koodia. Tee musiikkia. Livenä, taskussasi.
+
+SuperSonic tuo Sonic Pi:n, live-koodaukseen perustuvan musiikkisyntetisaattorin, jota käytetään luokkahuoneissa, studioissa ja lavoilla, Android-puhelimeesi ja -tablettiisi. Kirjoita muutama rivi, paina käynnistä ja kuule tulos heti. Muuta koodia musiikin soidessa, ja musiikki muuttuu sen mukana.
+
+Kaikki toimii suoraan laitteellasi: kieli, syntetisaattorimoottori, samplet ja efektit. Et tarvitse palvelinta, tiliä tai internet-yhteyttä.
+
+EDITORI
+• Kymmenen koodipuskuria, kuten Sonic Pi:ssä tietokoneella, tallentuvat automaattisesti kirjoittaessasi
+• Sonic Pi:n syntaksivärit ja Hack-fontti, rivinumeroilla ja automaattisella sisennyksellä
+• Näppäimistön yläpuolella symbolipalkki, joka sisältää koodauksessa tarvittavat merkit, sekä toiminnot kumoa, tee uudelleen ja sisennä
+• Virheet merkitään riville, jolla ne ilmenevät
+• Avaa ja tallenna .rb-tiedostoja minne tahansa laitteen tiedostovalitsimen kautta
+
+ÄLYKKÄÄT EHDOTUKSET
+Kirjoittaessasi SuperSonic tarjoaa samat ehdotukset kuin Sonic Pi:n oma editori:
+• Samplet sample-komennon jälkeen, syntetisaattorit use_synth-komennon jälkeen
+• Nykyisen syntetisaattorin asetukset play-komennon jälkeen
+• Efektien asetukset with_fx-lohkon sisällä
+• Nuotit, soinnut ja asteikot
+• Funktion nimet kahden ensimmäisen kirjaimen perusteella
+Vie kohdistin funktion, syntetisaattorin, efektin tai samplen päälle nähdäksesi sen kuvauksen, ja napauta nähdäksesi täydellisen dokumentaation.
+
+ÄÄNI
+• Aidot Sonic Pi -syntetisaattorit, samplet ja efektit, joita toistaa Androidille optimoitu matalan viiveen äänimoottori
+• Käynnistä-painike muuttuu vaaleanpunaiseksi musiikin soidessa; pysäytä hiljentää kaiken välittömästi
+
+OPI SOITTAESSASI
+• Sisäänrakennettu ohje sisältää esimerkkejä, kielen kuvauksen, syntetisaattorit, efektit ja samplet
+• Avaa mikä tahansa esimerkki suoraan puskuriin ja käynnistä se
+• Napauta samplea ohjeessa kuullaksesi sen
+
+NÄE, MITÄ SOI
+• Reaaliaikainen loki jokaisesta nuotista ja samplesta, Sonic Pi:n tutussa muodossa
+• Cue-paneeli, joka listaa jokaisen cuen sen lauetessa
+• Tableteilla loki ja cuet näkyvät koodisi vieressä
+
+SUUNNITELTU LAITTEELLESI
+• Vaaleat ja tummat teemat, jotka mukautuvat puhelimesi asetuksiin
+• Puhelinasettelu alareunan välilehdillä ja sivupalkki tableteilla
+• Reunasta reunaan -näyttö ja ennakoivat takaisin-eleet
+• Ei tallennuslupaa: koodisi pysyy sovelluksen omassa tallennustilassa, ellet itse tallenna sitä muualle
+
+Täydellinen koodausta opetteleville opiskelijoille, musiikin ja tietojenkäsittelyn opettajille sekä muusikoille, jotka haluavat luonnostella ideoita tai esiintyä livenä missä tahansa.
+
+AVOIN LÄHDEKOODI
+SuperSonic on vapaa ohjelmisto GNU AGPL v3 (tai uudempi) -lisenssillä, ja se perustuu avoimen lähdekoodin Sonic Pi:hin. SuperSonic on itsenäinen projekti, eikä se ole sidoksissa Sonic Pi -projektiin tai sen luojiin, eivätkä he ole hyväksyneet sitä.
+
+---
+<META lang=hu-HU/>
+
+APP NAME
+
+SuperSonic
+
+SHORT DESCRIPTION (77/80)
+
+Kódolj zenét ÉLŐBEN a Sonic Pi nyelvével, szintijeivel és mintáival. Offline.
+
+
+FULL DESCRIPTION (2864/4000)
+
+Kódolj. Zenélj. Élőben, a zsebedben.
+
+A SuperSonic elhozza a Sonic Pi-t, a tantermekben, stúdiókban és színpadon használt élő kódolású zenei szintetizátort az Android telefonodra és tabletedre. Írj be néhány sort, nyomd meg a futtatást, és azonnal hallhatod az eredményt. Játék közben változtasd a kódot, és a zene is vele együtt változik.
+
+Minden a készülékeden fut: a nyelv, a szintetizátor motor, a minták és az effektek. Nincs szükség szerverre, fiókra vagy internetkapcsolatra.
+
+A SZERKESZTŐ
+• Tíz kód puffer, akárcsak a Sonic Pi asztali verziójában, gépelés közben automatikusan mentve
+• A Sonic Pi szintaxis színei és a Hack betűtípus, sorszámokkal és automatikus behúzással
+• Egy billentyűsor a billentyűzet felett a kódoláshoz szükséges szimbólumokkal, plusz visszavonás, újra és behúzás funkciók
+• A hibák a soron vannak jelölve, ahol előfordulnak
+• .rb fájlok megnyitása és mentése bárhol a rendszer fájlválasztóján keresztül
+
+OKOS JAVASLATOK
+Gépelés közben a SuperSonic ugyanazokat a javaslatokat kínálja, mint a Sonic Pi saját szerkesztője:
+• Minták a sample után, szintetizátorok a use_synth után
+• Az aktuális szintetizátor opciói a play után
+• FX opciók a with_fx blokkon belül
+• Hangok, akkordok és skálák
+• Függvénynevek két betű beírása után
+Helyezd a kurzort egy függvényre, szintetizátorra, FX-re vagy mintára, hogy lásd, mit csinál, és koppints rá a teljes dokumentációért.
+
+HANG
+• Az eredeti Sonic Pi szintetizátorok, minták és effektek, amelyeket egy Androidra optimalizált, alacsony késleltetésű audio motor szólaltat meg
+• A futtatás gomb rózsaszínűvé válik, amíg a zene szól; a stop gomb azonnal elnémítja
+
+TANULJ JÁTÉK KÖZBEN
+• A beépített súgó példákat, a nyelvet, szintetizátorokat, FX-eket és mintákat tartalmaz
+• Bármelyik példát közvetlenül megnyithatod egy pufferbe és futtathatod
+• Koppints egy mintára a súgóban, hogy meghallgasd
+
+LÁSD, MI SZÓL
+• Élő napló minden hangról és mintáról, a Sonic Pi-ból ismert formátumban
+• Egy cue panel, amely minden cue-t listáz, ahogy elindul
+• Tableteken a napló és a cue-k a kódod mellett jelennek meg
+
+KÉSZÜLÉKEDRE OPTIMALIZÁLVA
+• Világos és sötét témák, amelyek követik a telefon rendszerbeállításait
+• Telefonos elrendezés alsó fülekkel, és oldalsó sáv tableteken
+• Széltől szélig kijelző és prediktív visszalépési gesztusok
+• Nincs szükség tárolási engedélyre: a kódod az alkalmazás privát tárhelyén marad, hacsak nem döntesz úgy, hogy máshová mented
+
+Tökéletes a kódolást tanuló diákoknak, a zene- és informatika órákat tartó tanároknak, és a zenészeknek, akik ötleteket szeretnének vázolni vagy élőben előadni, bárhol is legyenek.
+
+NYÍLT FORRÁSKÓD
+A SuperSonic szabad szoftver a GNU AGPL v3 (vagy későbbi) licenc alatt, a nyílt forrású Sonic Pi-re épülve. A SuperSonic egy független projekt, és nem áll kapcsolatban a Sonic Pi projekttel vagy annak alkotóival, akik nem is hagyták jóvá.
+
+---
+<META lang=iw-IL/>
+
+APP NAME
+
+SuperSonic
+
+SHORT DESCRIPTION (73/80)
+
+תכנתו מוזיקה בזמן אמת עם השפה, הסינתים והדגימות של Sonic Pi. בלי אינטרנט.
+
+
+FULL DESCRIPTION (2216/4000)
+
+כתבו קוד. צרו מוזיקה. בזמן אמת, בכיס שלכם.
+
+SuperSonic מביא את Sonic Pi, סינתיסייזר המוזיקה בקוד חי המשמש בכיתות, באולפנים ועל במות, ישירות לטלפון ולטאבלט האנדרואיד שלכם. הקלידו כמה שורות, לחצו על הפעלה, ושמעו את התוצאה מיד. שנו את הקוד בזמן הנגינה, והמוזיקה תשתנה בהתאם.
+
+הכל מתבצע על המכשיר שלכם: השפה, מנוע הסינתיסייזר, הדגימות והאפקטים. אין צורך בשרת, בחשבון או בחיבור לאינטרנט.
+
+העורך
+• עשרה מאגרי קוד, בדומה ל-Sonic Pi במחשב, הנשמרים אוטומטית בזמן ההקלדה
+• צבעי התחביר של Sonic Pi וגופן Hack, עם מספרי שורות והזחה אוטומטית
+• סרגל מקשים מעל המקלדת הכולל את הסימנים הנחוצים לכתיבת קוד, בתוספת ביטול, חזרה והזחה
+• שגיאות מסומנות ישירות על השורה שבה הן מתרחשות
+• פתיחה ושמירה של קבצי .rb מכל מקום באמצעות בורר הקבצים המערכתי
+
+הצעות חכמות
+בזמן ההקלדה, SuperSonic מציע הצעות דומות לאלו של עורך Sonic Pi המקורי:
+• דגימות לאחר sample, סינתיסייזרים לאחר use_synth
+• אפשרויות הסינתיסייזר הנוכחי לאחר play
+• אפשרויות אפקטים בתוך with_fx
+• תווים, אקורדים וסולמות
+• שמות פונקציות לאחר שתי אותיות
+מקמו את הסמן על פונקציה, סינתיסייזר, אפקט או דגימה כדי לראות את תיאורם, והקישו לקבלת התיעוד המלא.
+
+צליל
+• הסינתיסייזרים, הדגימות והאפקטים המקוריים של Sonic Pi, המנוגנים על ידי מנוע שמע עם השהיה נמוכה המותאם לאנדרואיד
+• כפתור ההפעלה הופך ורוד בזמן שהמוזיקה מתנגנת; כפתור העצירה משתיק אותה מיד
+
+למדו תוך כדי משחק
+• העזרה המובנית כוללת דוגמאות, הסברים על השפה, סינתיסייזרים, אפקטים ודגימות
+• פתחו כל דוגמה ישירות לתוך מאגר והריצו אותה
+• הקישו על דגימה בעזרה כדי לשמוע אותה
+
+ראו מה מתנגן
+• יומן חי של כל תו ודגימה, בפורמט המוכר של Sonic Pi
+• חלונית cue המציגה כל cue ברגע שהוא מופעל
+• בטאבלטים, היומן וה-cue מופיעים לצד הקוד שלכם
+
+מותאם למכשיר שלכם
+• ערכות נושא בהירות וכהות התואמות את הגדרות הטלפון שלכם
+• פריסת טלפון עם כרטיסיות בתחתית, וסרגל צד בטאבלטים
+• תצוגה מקצה לקצה ומחוות חזרה חזויות
+• אין צורך בהרשאת אחסון: הקוד שלכם נשמר באחסון הפרטי של האפליקציה אלא אם תבחרו לשמור אותו במקום אחר
+
+מושלם לסטודנטים הלומדים תכנות, למורים המעבירים שיעורי מוזיקה ומחשוב, ולמוזיקאים המעוניינים לשרטט רעיונות או להופיע בהופעה חיה בכל מקום.
+
+קוד פתוח
+SuperSonic היא תוכנה חופשית תחת רישיון GNU AGPL v3 (או גרסה מאוחרת יותר), שנבנתה על בסיס Sonic Pi בקוד פתוח. SuperSonic הוא פרויקט עצמאי ואינו קשור או מאושר על ידי פרויקט Sonic Pi או יוצריו.
+
+---
+<META lang=nl-NL/>
+
+APP NAME
+
+SuperSonic
+
+SHORT DESCRIPTION (77/80)
+
+Programmeer muziek LIVE met de taal, synths en samples van Sonic Pi. Offline.
+
+
+FULL DESCRIPTION (2821/4000)
+
+Code schrijven. Muziek maken. Live, in je broekzak.
+
+SuperSonic brengt Sonic Pi, de live-coding muziek synthesizer die gebruikt wordt in klaslokalen, studio's en op het podium, naar je Android telefoon en tablet. Typ een paar regels, druk op 'run' en hoor het direct. Verander de code terwijl de muziek speelt en de muziek verandert mee.
+
+Alles draait op je apparaat: de programmeertaal, de synthesizer engine, de samples en de effecten (FX). Geen server, geen account en geen internetverbinding nodig.
+
+DE EDITOR
+• Tien codebuffers, net als in Sonic Pi op de desktop, die automatisch worden opgeslagen terwijl je typt
+• De syntaxkleuren van Sonic Pi en het Hack lettertype, met regelnummers en automatische inspringing
+• Een balk boven het toetsenbord met de symbolen die je nodig hebt voor code, plus ongedaan maken, opnieuw uitvoeren en inspringen
+• Fouten worden gemarkeerd op de regel waar ze optreden
+• Open en sla .rb bestanden overal op via de bestandsselector van het systeem
+
+SLIMME SUGGESTIES
+Terwijl je typt, biedt SuperSonic dezelfde suggesties als de editor van Sonic Pi:
+• Samples na 'sample', synths na 'use_synth'
+• De opties van de huidige synth na 'play'
+• FX opties binnen 'with_fx'
+• Noten, akkoorden en toonladders
+• Functienamen na twee letters
+Plaats de cursor op een functie, synth, FX of sample om te zien wat het doet, en tik voor de volledige documentatie.
+
+GELUID
+• De echte Sonic Pi synths, samples en FX, afgespeeld door een audio engine met lage latentie, speciaal gebouwd voor Android
+• De 'run' knop kleurt roze terwijl je muziek speelt; 'stop' zet het direct stil
+
+LEER TERWIJL JE SPEELT
+• De ingebouwde helpfunctie bevat voorbeelden, uitleg over de taal, synths, FX en samples
+• Open elk voorbeeld direct in een buffer en voer het uit
+• Tik op een sample in de help om het te beluisteren
+
+ZIE WAT ER SPEELT
+• Een live logboek van elke noot en sample, in het bekende formaat van Sonic Pi
+• Een 'cues' paneel dat elke cue weergeeft zodra deze wordt geactiveerd
+• Op tablets staan het logboek en de cues naast je code
+
+ONTWORPEN VOOR JE APPARAAT
+• Lichte en donkere thema's die de instelling van je telefoon volgen
+• Een telefoon lay-out met tabbladen onderaan, en een zijbalk op tablets
+• Rand-tot-rand weergave en voorspellende teruggebaren
+• Geen opslagtoestemming vereist: je code blijft in de privéopslag van de app, tenzij je ervoor kiest om het elders op te slaan
+
+Perfect voor studenten die leren programmeren, docenten die muziek- en computerlessen geven, en muzikanten die ideeën willen schetsen of live willen optreden, waar ze ook zijn.
+
+OPEN SOURCE
+SuperSonic is vrije software onder de GNU AGPL v3 (of later), gebaseerd op de open-source Sonic Pi. SuperSonic is een onafhankelijk project en is niet gelieerd aan of onderschreven door het Sonic Pi project of de makers ervan.
+
+---
+<META lang=no-NO/>
+
+APP NAME
+
+SuperSonic
+
+SHORT DESCRIPTION (70/80)
+
+Kod musikk LIVE med Sonic Pis språk, synther og samples. Helt offline.
+
+
+FULL DESCRIPTION (2691/4000)
+
+Skriv kode. Lag musikk. Live, rett i lomma.
+
+SuperSonic bringer Sonic Pi – musikk-synthen for live-koding som brukes i klasserom, studioer og på scenen – til din Android-telefon og nettbrett. Skriv noen linjer, trykk kjør, og hør resultatet med en gang. Endre koden mens musikken spiller, og lyden endrer seg deretter.
+
+Alt kjører lokalt på enheten din: språket, synth-motoren, samples og effekter (FX). Ingen server, ingen konto og ingen internettilkobling er nødvendig.
+
+REDIGERINGSVERKTØYET
+• Ti kodebuffere, akkurat som i Sonic Pi på datamaskinen, som lagres automatisk mens du skriver
+• Sonic Pis egne syntaksfarger og Hack-skriften, med linjenumre og automatisk innrykk
+• En symbollinje over tastaturet med de mest brukte tegnene, pluss angre, gjenta og innrykk
+• Feil markeres tydelig på linjen der de oppstår
+• Åpne og lagre .rb-filer hvor som helst via systemets filvelger
+
+SMARTE FORSLAG
+Mens du skriver, gir SuperSonic deg de samme smarte forslagene som Sonic Pis egen editor:
+• Samples etter sample, synther etter use_synth
+• Alternativer for gjeldende synth etter play
+• FX-alternativer inne i with_fx
+• Noter, akkorder og skalaer
+• Funksjonsnavn etter de første to bokstavene
+Plasser markøren på en funksjon, synth, FX eller sample for å se en kort beskrivelse, og trykk for å se full dokumentasjon.
+
+LYD
+• De ekte Sonic Pi-synthene, samples og effektene, spilt av en lydmotor med lav forsinkelse, optimalisert for Android
+• "Kjør"-knappen blir rosa mens musikken spiller; "Stopp" stilner lyden umiddelbart
+
+LÆR MENS DU SPILLER
+• Den innebygde hjelpen inneholder eksempler, beskrivelser av språket, synther, effekter og samples
+• Åpne et hvilket som helst eksempel direkte i en buffer og kjør det
+• Trykk på et sample i hjelpen for å høre det
+
+SE HVA SOM SPILLES
+• En live-logg over hver note og sample, i Sonic Pis velkjente format
+• Et panel som viser alle "cues" etter hvert som de utløses
+• På nettbrett vises loggen og cues ved siden av koden din
+
+DESIGNET FOR DIN ENHET
+• Lyse og mørke temaer som følger telefonens systeminnstillinger
+• Et telefonoppsett med faner nederst, og en sidemeny på nettbrett
+• Kant-til-kant-skjerm og prediktive tilbake-bevegelser
+• Ingen lagringstillatelse kreves: koden din lagres i appens private område med mindre du velger å lagre den et annet sted
+
+Perfekt for studenter som lærer koding, lærere som underviser i musikk og IT, og musikere som vil skissere ideer eller opptre live uansett hvor de er.
+
+ÅPEN KILDEKODE
+SuperSonic er fri programvare under GNU AGPL v3 (eller nyere), bygget på Sonic Pi, som har åpen kildekode. SuperSonic er et uavhengig prosjekt og er ikke tilknyttet eller godkjent av Sonic Pi-prosjektet eller dets skapere.
+
+---
+<META lang=pl-PL/>
+
+APP NAME
+
+SuperSonic
+
+SHORT DESCRIPTION (74/80)
+
+Koduj muzykę NA ŻYWO językiem, syntezatorami i samplami Sonic Pi. Offline.
+
+
+FULL DESCRIPTION (2866/4000)
+
+Pisz kod. Twórz muzykę. Na żywo, w Twojej kieszeni.
+
+SuperSonic przenosi Sonic Pi – syntezator muzyczny do kodowania na żywo, używany w szkołach, studiach i na scenie – na Twój telefon i tablet z Androidem. Wpisz kilka linijek, naciśnij „Uruchom” i od razu usłysz efekt. Zmieniaj kod w trakcie odtwarzania, a muzyka będzie się zmieniać wraz z nim.
+
+Wszystko działa na Twoim urządzeniu: język, silnik syntezatora, próbki i efekty. Nie potrzebujesz serwera, konta ani połączenia z internetem.
+
+EDYTOR
+• Dziesięć buforów kodu, jak w Sonic Pi na komputerze, zapisywanych automatycznie podczas pisania
+• Kolory składni Sonic Pi i czcionka Hack, z numerami linii i automatycznym wcięciem
+• Pasek klawiszy nad klawiaturą z symbolami potrzebnymi w kodzie, a także przyciski „Cofnij”, „Ponów” i „Wcięcie”
+• Błędy są zaznaczone na linii, na której wystąpiły
+• Otwieraj i zapisuj pliki .rb w dowolnym miejscu za pomocą systemowego menedżera plików
+
+INTELIGENTNE SUGESTIE
+Podczas pisania SuperSonic oferuje sugestie, podobnie jak edytor Sonic Pi:
+• Próbki po komendzie sample, syntezatory po use_synth
+• Opcje bieżącego syntezatora po play
+• Opcje efektów wewnątrz bloku with_fx
+• Nuty, akordy i skale
+• Nazwy funkcji po wpisaniu dwóch pierwszych liter
+Umieść kursor na funkcji, syntezatorze, efekcie lub próbce, aby zobaczyć jej opis, a dotknięcie wyświetli pełną dokumentację.
+
+DŹWIĘK
+• Oryginalne syntezatory, próbki i efekty Sonic Pi, odtwarzane przez silnik audio o niskim opóźnieniu, zoptymalizowany dla Androida
+• Przycisk „Uruchom” zmienia kolor na różowy podczas odtwarzania muzyki; przycisk „Stop” natychmiast ją wycisza
+
+UCZ SIĘ PODCZAS GRY
+• Wbudowana pomoc zawiera przykłady, opis języka, syntezatorów, efektów i próbek
+• Otwórz dowolny przykład bezpośrednio w buforze i uruchom go
+• Dotknij próbki w pomocy, aby ją usłyszeć
+
+ZOBACZ, CO GRA
+• Dziennik na żywo każdej nuty i próbki, w znanym formacie Sonic Pi
+• Panel „Cues” wyświetlający wszystkie sygnały w momencie ich uruchomienia
+• Na tabletach dziennik i sygnały są wyświetlane obok kodu
+
+ZAPROJEKTOWANE DLA TWOJEGO URZĄDZENIA
+• Jasny i ciemny motyw, dostosowujący się do ustawień telefonu
+• Układ dla telefonu z dolnymi zakładkami i boczny panel na tabletach
+• Wyświetlacz od krawędzi do krawędzi i predykcyjny gest wstecz
+• Brak wymogu pozwolenia na dostęp do pamięci: Twój kod pozostaje w prywatnej pamięci aplikacji, chyba że zdecydujesz się zapisać go gdzie indziej
+
+Idealne dla studentów uczących się kodowania, nauczycieli prowadzących lekcje muzyki i informatyki, a także dla muzyków, którzy chcą szkicować pomysły lub występować na żywo, gdziekolwiek się znajdują.
+
+OPEN SOURCE
+SuperSonic to wolne oprogramowanie na licencji GNU AGPL v3 (lub nowszej), oparte na otwartym kodzie Sonic Pi. SuperSonic jest niezależnym projektem i nie jest powiązany ani wspierany przez projekt Sonic Pi ani jego twórców.
+
+---
+<META lang=ro/>
+
+APP NAME
+
+SuperSonic
+
+SHORT DESCRIPTION (75/80)
+
+Codează muzică LIVE cu limbajul, sintetizatoarele și sample-urile Sonic Pi.
+
+
+FULL DESCRIPTION (3204/4000)
+
+Scrie cod. Compune muzică. Live, direct din buzunar.
+
+SuperSonic aduce Sonic Pi, sintetizatorul muzical cu codare live folosit în săli de clasă, studiouri și pe scenă, pe telefonul și tableta ta Android. Tastează câteva linii de cod, apasă "Rulează" și ascultă rezultatul instantaneu. Modifică codul în timp ce muzica rulează, iar sunetul se va schimba odată cu el.
+
+Totul rulează local, pe dispozitivul tău: limbajul de programare, motorul de sinteză, sample-urile și efectele (FX). Nu ai nevoie de server, cont sau conexiune la internet.
+
+EDITORUL
+• Zece buffer-e de cod, similare cu cele din Sonic Pi pe desktop, salvate automat pe măsură ce tastezi
+• Culorile de sintaxă specifice Sonic Pi și fontul Hack, cu numere de linie și indentare automată
+• O bară de taste deasupra tastaturii cu simbolurile esențiale pentru codare, plus funcțiile Anulează, Reface și Indentează
+• Erorile sunt marcate direct pe linia unde apar
+• Poți deschide și salva fișiere .rb oriunde, folosind selectorul de fișiere al sistemului
+
+SUGESTII INTELIGENTE
+Pe măsură ce tastezi, SuperSonic îți oferă sugestii similare cu cele din editorul original Sonic Pi:
+• Sample-uri după comanda sample, sintetizatoare după use_synth
+• Opțiunile sintetizatorului curent după comanda play
+• Opțiuni pentru efecte (FX) în blocul with_fx
+• Nume de note, acorduri și game
+• Nume de funcții după primele două litere tastate
+Plasează cursorul pe o funcție, sintetizator, efect sau sample pentru a vedea o scurtă descriere, iar o atingere îți va afișa documentația completă.
+
+SUNET
+• Sintetizatoarele, sample-urile și efectele (FX) autentice Sonic Pi, redate de un motor audio cu latență redusă, optimizat pentru Android
+• Butonul "Rulează" devine roz în timp ce muzica ta se aude; butonul "Oprește" o oprește instantaneu
+
+ÎNVAȚĂ PRIN JOACĂ
+• Ajutorul integrat include exemple, descrierea limbajului, a sintetizatoarelor, efectelor (FX) și sample-urilor
+• Poți deschide orice exemplu direct într-un buffer și să-l rulezi imediat
+• Atinge un sample în secțiunea de ajutor pentru a-l asculta
+
+VEZI CE SE ÎNTÂMPLĂ
+• Un jurnal live care afișează fiecare notă și sample redat, în formatul familiar Sonic Pi
+• Un panou dedicat care listează fiecare "cue" (semnal) pe măsură ce este declanșat
+• Pe tablete, jurnalul și "cue"-urile sunt afișate alături de codul tău
+
+CONCEPUT PENTRU DISPOZITIVUL TĂU
+• Teme deschise și întunecate care se adaptează setărilor telefonului tău
+• O interfață optimizată pentru telefon, cu tab-uri în partea de jos, și o bară laterală pe tablete
+• Afișaj pe tot ecranul și gesturi predictive de revenire
+• Nu necesită permisiune de stocare: codul tău rămâne în spațiul privat al aplicației, cu excepția cazului în care alegi să-l salvezi în altă parte
+
+Perfect pentru studenții care învață programare, profesorii care predau lecții de muzică și informatică, precum și pentru muzicienii care doresc să schițeze idei sau să performeze live oriunde s-ar afla.
+
+OPEN SOURCE
+SuperSonic este un software liber sub licența GNU AGPL v3 (sau o versiune ulterioară), construit pe baza proiectului open-source Sonic Pi. SuperSonic este un proiect independent și nu este afiliat sau susținut de proiectul Sonic Pi sau de creatorii săi.
+
+---
+<META lang=sk/>
+
+APP NAME
+
+SuperSonic
+
+SHORT DESCRIPTION (76/80)
+
+Kódujte hudbu NAŽIVO s jazykom, syntetizátormi a samplami Sonic Pi. Offline.
+
+
+FULL DESCRIPTION (2951/4000)
+
+Píšte kód. Tvorte hudbu. Naživo, priamo vo vrecku.
+
+SuperSonic prináša Sonic Pi, hudobný syntetizátor s možnosťou živého kódovania, ktorý sa používa v triedach, štúdiách aj na pódiách, priamo do vášho Android telefónu a tabletu. Napíšte pár riadkov, stlačte spustiť a okamžite počujte výsledok. Zmeňte kód počas prehrávania a hudba sa s ním dynamicky mení.
+
+Všetko beží priamo na vašom zariadení: jazyk, syntetizátorový engine, vzorky aj efekty (FX). Nepotrebujete žiadny server, účet ani internetové pripojenie.
+
+EDITOR
+• Desať kódových bufferov, podobne ako v desktopovej verzii Sonic Pi, ktoré sa ukladajú automaticky počas písania
+• Farebné zvýraznenie syntaxe Sonic Pi a font Hack, s číslami riadkov a automatickým odsadením
+• Lišta s často používanými symbolmi nad klávesnicou, doplnená o tlačidlá späť, znova a odsadenie
+• Chyby sú prehľadne označené priamo na riadku, kde sa vyskytli
+• Možnosť otvárať a ukladať .rb súbory kdekoľvek pomocou systémového výberu súborov
+
+INTELIGENTNÉ NÁVRHY
+Počas písania vám SuperSonic ponúka inteligentné návrhy, rovnako ako pôvodný editor Sonic Pi:
+• Vzorky po zadaní sample, syntetizátory po use_synth
+• Možnosti aktuálneho syntetizátora po príkaze play
+• Možnosti efektov (FX) v rámci bloku with_fx
+• Názvy nôt, akordov a stupníc
+• Názvy funkcií už po zadaní dvoch písmen
+Umiestnite kurzor na funkciu, syntetizátor, efekt (FX) alebo vzorku a zobrazí sa vám krátky popis. Ťuknutím získate prístup k úplnej dokumentácii.
+
+ZVUK
+• Autentické syntetizátory, vzorky a efekty (FX) zo Sonic Pi, prehrávané audio enginom s nízkou latenciou, optimalizovaným pre Android
+• Tlačidlo Spustiť sa počas prehrávania hudby zmení na ružové; tlačidlo Zastaviť okamžite stíši zvuk
+
+UČTE SA HROU
+• Vstavaná pomoc obsahuje príklady, popis jazyka, syntetizátorov, efektov (FX) a vzoriek
+• Akýkoľvek príklad môžete otvoriť priamo do bufferu a spustiť ho
+• Ťuknutím na vzorku v pomoci si ju môžete vypočuť
+
+SLEDUJTE, ČO SA DEJE
+• Živý záznam každej noty a vzorky v známom formáte Sonic Pi
+• Panel s cue, ktorý zobrazuje každý cue v momente jeho spustenia
+• Na tabletoch sa záznam a cue zobrazujú vedľa vášho kódu
+
+NAVRHNUTÉ PRE VAŠE ZARIADENIE
+• Svetlé a tmavé témy, ktoré sa prispôsobujú nastaveniam vášho telefónu
+• Rozloženie pre telefón so spodnými záložkami a bočnou lištou na tabletoch
+• Zobrazenie od okraja k okraju a podpora prediktívnych gest späť
+• Nevyžaduje povolenie na prístup k úložisku: váš kód zostáva v súkromnom úložisku aplikácie, pokiaľ sa nerozhodnete ho uložiť inam
+
+Ideálne pre študentov, ktorí sa učia kódovať, učiteľov vedúcich hodiny hudby a informatiky, a hudobníkov, ktorí si chcú rýchlo načrtnúť nápady alebo vystupovať naživo kdekoľvek sa nachádzajú.
+
+OPEN SOURCE
+SuperSonic je slobodný softvér pod licenciou GNU AGPL v3 (alebo novšou), postavený na základoch open-source projektu Sonic Pi. SuperSonic je nezávislý projekt a nie je pridružený k projektu Sonic Pi ani jeho tvorcom, ani nimi schválený.
+
+---
+<META lang=sv-SE/>
+
+APP NAME
+
+SuperSonic
+
+SHORT DESCRIPTION (73/80)
+
+Koda musik LIVE med Sonic Pis språk, syntar och samplingar. Helt offline.
+
+
+FULL DESCRIPTION (2828/4000)
+
+Skriv kod. Skapa musik. Live, direkt i fickan.
+
+SuperSonic tar Sonic Pi – musiksynthern för live-kodning som används i klassrum, studior och på scen – till din Android-telefon och surfplatta. Skriv några rader, tryck på kör, och hör resultatet direkt. Ändra koden medan musiken spelas, och musiken förändras i realtid.
+
+Allt körs lokalt på din enhet: språket, synthmotorn, samplen och effekterna (FX). Ingen server, inget konto och ingen internetanslutning krävs.
+
+REDIGERAREN
+• Tio kodbuffertar, precis som i Sonic Pi på datorn, som sparas automatiskt medan du skriver
+• Sonic Pis syntaxfärger och typsnittet Hack, med radnummer och automatisk indragning
+• En symbolrad ovanför tangentbordet med de tecken som behövs för kodning, plus funktioner för ångra, gör om och indragning
+• Fel markeras tydligt på den rad där de uppstår
+• Öppna och spara .rb-filer var som helst via systemets inbyggda filhanterare
+
+SMARTA FÖRSLAG
+Medan du skriver ger SuperSonic samma typ av förslag som Sonic Pis egen redigerare:
+• Samplingar efter sample, synther efter use_synth
+• Alternativ för den aktuella synthern efter play
+• FX-alternativ inuti with_fx
+• Toner, ackord och skalor
+• Funktionsnamn efter bara två bokstäver
+Placera markören på en funktion, synth, effekt eller sample för att se vad den gör, och tryck för att få upp fullständig dokumentation.
+
+LJUD
+• De autentiska Sonic Pi-syntherna, samplen och effekterna, spelade av en ljudmotor med låg fördröjning, optimerad för Android
+• Knappen "Kör" blir rosa medan musiken spelas; "Stopp" tystar musiken omedelbart
+
+LÄR DIG MEDAN DU SPELAR
+• Den inbyggda hjälpen innehåller exempel, beskrivningar av språket, synther, effekter och samplen
+• Öppna vilket exempel som helst direkt i en buffert och kör det
+• Tryck på ett sample i hjälpen för att höra hur det låter
+
+SE VAD SOM SPELAS
+• En live-logg över varje ton och sample, i Sonic Pis välbekanta format
+• Ett fönster som listar alla "cues" (signaler) i takt med att de aktiveras
+• På surfplattor visas loggen och cues bredvid din kod
+
+DESIGNAD FÖR DIN ENHET
+• Ljusa och mörka teman som följer din telefons systeminställningar
+• En layout för telefoner med flikar längst ner, och en sidopanel på surfplattor
+• Skärmvisning från kant till kant och stöd för prediktiva bakåtgester
+• Ingen behörighet för lagring krävs: din kod sparas i appens privata utrymme om du inte väljer att spara den någon annanstans
+
+Perfekt för studenter som lär sig koda, lärare som håller lektioner i musik och programmering, samt musiker som vill skissa på idéer eller uppträda live var de än befinner sig.
+
+ÖPPEN KÄLLKOD
+SuperSonic är fri programvara under licensen GNU AGPL v3 (eller senare), och bygger på Sonic Pi, som har öppen källkod. SuperSonic är ett oberoende projekt och är inte anslutet till eller godkänt av Sonic Pi-projektet eller dess skapare.
+
+---
+<META lang=th/>
+
+APP NAME
+
+SuperSonic
+
+SHORT DESCRIPTION (77/80)
+
+เขียนโค้ดสร้างดนตรีสดๆ ด้วยภาษา ซินธ์ และแซมเปิลของ Sonic Pi ใช้ได้แบบออฟไลน์
+
+
+FULL DESCRIPTION (2377/4000)
+
+เขียนโค้ด สร้างเพลง สดๆ ได้ในกระเป๋าคุณ
+
+SuperSonic นำ Sonic Pi ซินธ์เพลงแบบ Live-Coding ที่ใช้กันในห้องเรียน สตูดิโอ และบนเวที มาให้คุณใช้บนโทรศัพท์และแท็บเล็ต Android เพียงพิมพ์โค้ดไม่กี่บรรทัด กด Run แล้วฟังได้ทันที เปลี่ยนโค้ดขณะที่เพลงกำลังเล่น เพลงก็จะเปลี่ยนตามไปด้วย
+
+ทุกอย่างทำงานบนอุปกรณ์ของคุณ ทั้งภาษา เอ็นจิ้นซินธ์ แซมเปิล และ FX ไม่ต้องใช้เซิร์ฟเวอร์ ไม่ต้องมีบัญชี และไม่ต้องเชื่อมต่ออินเทอร์เน็ต
+
+ตัวแก้ไข
+• มีบัฟเฟอร์โค้ดให้สิบอัน เหมือน Sonic Pi บนเดสก์ท็อป บันทึกอัตโนมัติขณะที่คุณพิมพ์
+• ใช้สีไวยากรณ์ของ Sonic Pi และฟอนต์ Hack พร้อมแสดงหมายเลขบรรทัดและจัดย่อหน้าอัตโนมัติ
+• แถบปุ่มเหนือคีย์บอร์ด มีสัญลักษณ์ที่จำเป็นสำหรับโค้ด รวมถึงปุ่ม Undo, Redo และ Indent
+• ข้อผิดพลาดจะถูกทำเครื่องหมายไว้ที่บรรทัดที่เกิดปัญหา
+• เปิดและบันทึกไฟล์ .rb ได้ทุกที่ผ่านตัวเลือกไฟล์ของระบบ
+
+คำแนะนำอัจฉริยะ
+ขณะที่คุณพิมพ์ SuperSonic จะแนะนำสิ่งที่ตัวแก้ไขของ Sonic Pi มีให้:
+• แซมเปิลหลังคำว่า sample, ซินธ์หลังคำว่า use_synth
+• ตัวเลือกของซินธ์ปัจจุบันหลังคำว่า play
+• ตัวเลือก FX ภายใน with_fx
+• โน้ต คอร์ด และสเกล
+• ชื่อฟังก์ชันหลังจากพิมพ์ตัวอักษรสองตัว
+วางเคอร์เซอร์บนฟังก์ชัน ซินธ์ FX หรือแซมเปิล เพื่อดูว่าทำอะไร และแตะเพื่อดูเอกสารฉบับเต็ม
+
+เสียง
+• ใช้ซินธ์ แซมเปิล และ FX จริงๆ ของ Sonic Pi เล่นโดยเอ็นจิ้นเสียงที่มีความหน่วงต่ำ สร้างขึ้นสำหรับ Android
+• ปุ่ม Run จะเปลี่ยนเป็นสีชมพูขณะที่เพลงกำลังเล่น; ปุ่ม Stop จะหยุดเสียงทันที
+
+เรียนรู้ไปพร้อมกับการเล่น
+• มีคู่มือช่วยเหลือในตัว ครอบคลุมตัวอย่าง ภาษา ซินธ์ FX และแซมเปิล
+• เปิดตัวอย่างใดๆ เข้าไปในบัฟเฟอร์ได้ทันทีและรัน
+• แตะที่แซมเปิลในคู่มือช่วยเหลือเพื่อฟังเสียง
+
+ดูว่ากำลังเล่นอะไรอยู่
+• แสดงบันทึกสดของทุกโน้ตและแซมเปิล ในรูปแบบที่คุ้นเคยของ Sonic Pi
+• แผง Cues แสดงรายการทุก Cue ที่ทำงาน
+• บนแท็บเล็ต บันทึกและ Cues จะแสดงอยู่ข้างโค้ดของคุณ
+
+ออกแบบมาสำหรับอุปกรณ์ของคุณ
+• มีธีมสว่างและมืด ตามการตั้งค่าของโทรศัพท์คุณ
+• เลย์เอาต์สำหรับโทรศัพท์มีแท็บด้านล่าง และแถบด้านข้างสำหรับแท็บเล็ต
+• แสดงผลแบบเต็มขอบจอ และรองรับท่าทางย้อนกลับแบบคาดการณ์
+• ไม่ต้องขอสิทธิ์การจัดเก็บ: โค้ดของคุณจะอยู่ในพื้นที่จัดเก็บส่วนตัวของแอป เว้นแต่คุณจะเลือกบันทึกไว้ที่อื่น
+
+เหมาะสำหรับนักเรียนที่กำลังเรียนรู้การเขียนโค้ด ครูที่สอนดนตรีและคอมพิวเตอร์ และนักดนตรีที่ต้องการร่างไอเดียหรือแสดงสดได้ทุกที่
+
+โอเพนซอร์ส
+SuperSonic เป็นซอฟต์แวร์เสรีภายใต้สัญญาอนุญาต GNU AGPL v3 (หรือใหม่กว่า) สร้างขึ้นบน Sonic Pi ซึ่งเป็นโอเพนซอร์ส SuperSonic เป็นโครงการอิสระและไม่มีส่วนเกี่ยวข้องหรือได้รับการรับรองจากโครงการ Sonic Pi หรือผู้สร้าง
+
+---
+<META lang=uk/>
+
+APP NAME
+
+SuperSonic
+
+SHORT DESCRIPTION (74/80)
+
+Кодуйте музику НАЖИВО з мовою, синтезаторами та семплами Sonic Pi. Офлайн.
+
+
+FULL DESCRIPTION (2928/4000)
+
+Пишіть код. Створюйте музику. Наживо, просто в кишені.
+
+SuperSonic переносить Sonic Pi – музичний синтезатор для живого кодування, що використовується в класах, студіях та на сцені – на ваш Android телефон чи планшет. Напишіть кілька рядків, натисніть "виконати" і одразу почуйте результат. Змінюйте код під час відтворення, і музика миттєво адаптується.
+
+Все працює безпосередньо на вашому пристрої: мова, синтезаторний рушій, семпли та ефекти. Не потрібен сервер, обліковий запис чи підключення до Інтернету.
+
+РЕДАКТОР
+• Десять буферів для коду, як у Sonic Pi на комп'ютері, що зберігаються автоматично під час набору
+• Кольори синтаксису Sonic Pi та шрифт Hack, з нумерацією рядків та авто-відступами
+• Панель над клавіатурою з необхідними символами для коду, а також кнопки "скасувати", "повторити" та "відступ"
+• Помилки позначаються безпосередньо на рядку, де вони виникли
+• Відкривайте та зберігайте файли .rb будь-де за допомогою стандартного системного файлового менеджера
+
+РОЗУМНІ ПІДКАЗКИ
+Під час набору тексту SuperSonic пропонує ті ж підказки, що й власний редактор Sonic Pi:
+• Семпли після sample, синтезатори після use_synth
+• Опції поточного синтезатора після play
+• Опції ефектів всередині with_fx
+• Ноти, акорди та гами
+• Назви функцій після введення двох літер
+Наведіть курсор на функцію, синтезатор, ефект чи семпл, щоб побачити його призначення, і торкніться для перегляду повної документації.
+
+ЗВУК
+• Справжні синтезатори, семпли та ефекти Sonic Pi, відтворювані аудіо рушієм з низькою затримкою, оптимізованим для Android
+• Кнопка "виконати" стає рожевою під час відтворення музики; "стоп" миттєво її зупиняє
+
+НАВЧАЙТЕСЯ В ПРОЦЕСІ
+• Вбудована довідка містить приклади, опис мови, синтезаторів, ефектів та семплів
+• Відкрийте будь-який приклад прямо в буфер і запустіть його
+• Торкніться семпла в довідці, щоб прослухати його
+
+ДИВІТЬСЯ, ЩО ГРАЄ
+• Журнал у реальному часі з кожною нотою та семплом, у звичному форматі Sonic Pi
+• Панель сигналів, що відображає кожен сигнал під час його спрацьовування
+• На планшетах журнал та сигнали розташовані поруч з вашим кодом
+
+РОЗРОБЛЕНО ДЛЯ ВАШОГО ПРИСТРОЮ
+• Світла та темна теми, що відповідають налаштуванням вашого телефону
+• Макет для телефону з нижніми вкладками та бічна панель на планшетах
+• Дисплей від краю до краю та предиктивні жести "назад"
+• Не вимагає дозволу на зберігання: ваш код залишається в приватному сховищі програми, якщо ви самі не вирішите зберегти його деінде
+
+Ідеально підходить для студентів, які вивчають програмування, вчителів, що проводять уроки музики та інформатики, а також музикантів, які хочуть швидко накидати ідеї чи виступати наживо, де б вони не знаходились.
+
+ВІДКРИТИЙ КОД
+SuperSonic є вільним програмним забезпеченням за ліцензією GNU AGPL v3 (або пізнішою), побудованим на базі відкритого коду Sonic Pi. SuperSonic є незалежним проектом і не пов'язаний з проектом Sonic Pi або його творцями, а також не підтримується ними.
