@@ -22,7 +22,7 @@ android {
     ndkVersion = "29.0.14206865"
 
     defaultConfig {
-        applicationId = "io.github.alexdev404.sonicpi"
+        applicationId = "com.alexdev404.supersonic"
         minSdk = 30          // Android 11: what the native core's libc calls need
         targetSdk = 36       // Android 16
         versionCode = 1
